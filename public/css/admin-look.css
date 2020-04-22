@@ -1,0 +1,35 @@
+.coach-main-title b{
+	display: inline-block;
+	float: right;
+	width: 70px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	background:#bdbdbd ;
+	color: white;
+	margin-right: 4%;
+}
+.admin-look-submain{
+	margin: 2% 4%;
+}
+.admin-look-submain .up .up-left{
+	width: 50%;
+	float: left;
+	min-height: 500px;
+}
+.admin-look-submain .up .up-right{
+	width: 50%;
+	float: left;
+	min-height: 500px;
+}
+.admin-look-submain .down .down-left{
+	width: 50%;
+	float: left;
+}
+.admin-look-submain .down .down-left span{
+	padding-left: 50px;
+}
+.admin-look-submain .down .down-right{
+	width: 50%;
+	float: left;
+}

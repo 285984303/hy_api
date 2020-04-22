@@ -1,0 +1,240 @@
+.breadcrumb > li + li:before {
+    content: ">";
+    padding: 0 5px;
+    color: #333333;
+}
+
+.text_color_CC3300 {
+    color: #CC3300;
+}
+.text_color_00FF33 {
+    color: #00FF33;
+}
+
+.text_color_FF9933 {
+    color: #FF9933;
+}
+
+.text_color_5897FB {
+    color: #5897FB;
+}
+
+.text_color_d0d0d0 {
+    color: #ccc;
+}
+.modal-dialog {
+    margin: 160px auto;
+}
+.head_bg_color {
+    padding-top: 20px;
+}
+
+.content > .panel {
+    padding: 20px 20px 400px 20px;
+}
+.head_btn_bg_color {
+    background-color: #f4b856;
+}
+.breadcrumb-line {
+    padding-right: 20px;
+}
+
+.bg-mainColor {
+    background-color: #55a4f8;
+    border-color: #55a4f8;
+    color: #fff;
+}
+
+.edit {
+    color: #00CCFF;
+    margin-right: 10px;
+}
+
+.delete {
+    color: red;
+}
+
+.table {
+    text-align: center;
+}
+
+.table th {
+    text-align: center;
+}
+
+.table_width {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.content {
+    margin: 20px 0;
+}
+.coach-content-main table {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.margin-right-20 {
+    margin-right: 20px;
+}
+
+
+.right_button_style {
+    color: white !important;
+    background: #55a4f8;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 50px;
+
+    height: 36px;
+    line-height: 18px;
+    margin-top: 4px;
+
+}
+
+.width100 {
+    width: 100px;
+}
+.width230 {
+    width: 230px;
+}
+.right_button_style:hover {
+    background-color: #2a72be !important;
+}
+
+.right_button_style:focus {
+    background-color: #2a72be !important;
+}
+.color-white {
+    color: white !important;
+}
+.content-wrapper {
+    background: #e9ebee;
+}
+
+.layui-layer {
+    z-index: 999999999;
+}
+
+.page-header-default .breadcrumb-line:not([class*=bg-]) {
+    background-color: #d4d6db;
+}
+
+.modal-content > .modal-header {
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    background-color: #ddd;
+    padding: 10px;
+    padding-bottom: 10px;
+}
+
+.modal-content > .modal-header .close {
+    top: 30%;
+}
+
+.margin-bottom-20 {
+    margin-bottom: 20px;
+}
+input {
+    height: 35px;
+}
+
+.yellow-color {
+    color: #ff9933;
+}
+.modal-content .sendCode {
+    padding: 0;
+}
+
+.tip-div {
+    width: 96%;
+    margin-left: 2%;
+    margin-bottom: 10px;
+}
+
+.tip-div i {
+    margin-right: 10px;
+}
+.modal-content .sendCode button {
+    border-radius: 0;
+    height: 34px;
+    width: 120px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border: 0 solid transparent;
+}
+
+.bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {
+    width: 100%;
+}
+
+.padding_init {
+    padding: 0;
+}
+
+.table_responsive {
+    overflow-x: auto;
+    min-height: 0.01%;
+}
+
+.cursor_p {
+    cursor: pointer;
+}
+
+.min_width85 {
+    min-width: 85px;
+}
+
+.min_width97 {
+    min-width: 97px;
+}
+/* print div*/
+.print-div .print-log-foot {
+    float: right;
+    margin-top: 20px;
+    margin-right: 2%;
+}
+
+.print-div .print-log-foot div {
+    float: left;
+    border: 1px solid #ccc;
+    border-right: none;
+    width: 250px;
+    height: 132px;
+}
+
+.print-div .print-log-foot div .one {
+    padding-left: 20px;
+    line-height: 30px;
+    font-size: 16px;
+}
+
+.print-div .print-log-foot div .two {
+    line-height: 100px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.log-searchBtn {
+    height: 36px;
+    width: 100px;
+    color: white;
+}
+.print-div .imgDiv {
+    float: left;
+    width: 15%;
+}
+
+.print-div .imgDiv img {
+    width: 100%;
+    height: 230px;
+    padding-right: 20px;
+}
+
+.print-div .rightDiv {
+    float: left;
+    width: 85%;
+}
+
+/* print div*/

@@ -1,0 +1,89 @@
+.student-shuttle-main{
+	min-height: 726px;
+	border: 1px solid #ccc;
+	border-top: none;
+}
+.student-shuttle-main h1{
+	background: #394046;
+	height: 60px;
+	line-height: 60px;
+}
+.student-shuttle-main h1 span{
+	display:block;
+	width: 30px;
+	height: 60px;
+	background: #00ccff;
+	float: left;
+}
+.student-shuttle-main h1 b{
+	float: left;
+	display: block;
+	height: 60px;
+	line-height: 60px;
+	font-size: 22px;
+	color: white;
+	margin-left: 30px;
+}
+.student-shuttle-main .head{
+	width: 87%;
+	margin: 20px auto;
+
+}
+.student-shuttle-main .head img{
+	display: block;
+	width: 100%;
+}
+.student-shuttle-main .big{
+	width: 96%;
+	margin: 0 auto;
+}
+.student-shuttle-main .big .head-row{
+	width: 100%;
+	height: 60px;
+}
+.student-shuttle-main .big .head-row>li{
+	background: #00ccff;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	color: white;
+	font-size: 18px;
+	border: 1px solid #ccc;
+	border-bottom: none;
+	border-top: none;
+	float: left;
+}
+.xu-z .time{
+	cursor: pointer;
+}
+.student-shuttle-main .big .row{
+	height: 50px;
+}
+.student-shuttle-main .big .row>li{
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	border: 1px solid #ccc;
+	float: left;
+	cursor: pointer;
+}
+.student-shuttle-main .big .small .head-row1>li{
+	float: left;
+	width: 20%;
+	text-align: center;
+	height: 36px;
+	line-height: 36px;
+}
+.student-shuttle-main .big .small tr td{
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+.student-shuttle-main .foot-btn{
+	width: 520px;
+	height: 50px;
+	margin: 60px auto;
+}
+.student-shuttle-main .foot-btn input{
+	margin-right: 30px;
+}

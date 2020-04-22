@@ -1,0 +1,172 @@
+.coach-schedule-main-content .coach-schedule-main-tip > p {
+    margin-top: 15px;
+    padding-left: 30px;
+    font-size: 17px;
+}
+
+body {
+    min-width: 1857px;
+}
+/*.coach-content-main {
+    min-width: 1700px;
+}*/
+.coach-schedule-main-content .coach-schedule-main-tip > p span {
+    font-size: 17px;
+}
+
+.coach-schedule-content table tr th ul li > span {
+    font-size: 10px;
+}
+
+.coach-schedule-content table tr th ul {
+    width: 100%;
+    border-bottom: 10px solid red;
+    height: 21px;
+}
+
+.coach-schedule-content table tr th {
+    height: 40px;
+    line-height: 40px;
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+.overfllowDiv {
+    width: 98%;
+}
+
+.overfllowDiv > table {
+    width: 100%;
+}
+
+.deleteHtml {
+    min-width: 40px;
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+.deleteHtml ul {
+    height: 30px;
+    background: #ccc;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.deleteHtml ul li {
+    float: left;
+    line-height: 40px;
+    display: inline;
+    cursor: pointer;
+}
+.coach-schedule-content table tr th ul li {
+    float: left;
+    border-right: 1px solid white;
+    font-size: 10px;
+    height: 21px;
+    min-width: 40px;
+    border-bottom: 10px solid red;
+    text-align: left;
+}
+
+.ul_green {
+    border-bottom: 10px solid green !important;
+}
+.coach-schedule-content-header {
+    margin-top: 15px;
+    min-width: 80%;
+    margin-left: 2%;
+    width: 96%;
+    float: left;
+}
+
+.coach-schedule-content-header .table-tip {
+    float: right;
+    margin-top: 4px;
+    border-radius: 100%;
+    margin-left: 8px;
+}
+.table-tip-content p {
+    width: 100px;
+    font-size: 17px;
+}
+
+.table-tip {
+    width: 18px;
+    height: 18px;
+}
+
+.table-tip-content {
+    width: 30%;
+    min-width: 300px;
+    height: 140px;
+}
+
+.table-tip-content p {
+    margin-top: 55px;
+}
+
+.coach-schedule-content {
+    margin-top: 30px;
+   /* float: left;*/
+    width: 98%;
+}
+
+.coach-schedule-content-table {
+    border-collapse: collapse;
+    width: 96%;
+}
+
+.coach-schedule-content-table, .coach-schedule-content-table th, .coach-schedule-content-table td {
+    border: 1px solid #ccc;
+}
+
+.coach-schedule-content-table tr {
+    height: 33px;
+}
+
+.coach-schedule-content-table th, .coach-schedule-content-table td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.table-time {
+    width: 26%;
+    margin-top: 54px;
+    margin-left: 15%;
+}
+
+.table-time label {
+    display: block;
+    float: left;
+    width: 60px;
+    font-size: 17px;
+    min-width: 50px;
+}
+
+.table-time input {
+    float: left;
+    height: 35px;
+    /*min-width: 180px;*/
+    border: 1px solid #ccc;
+}
+
+.searchBtn {
+    width: 80px;
+    height: 35px;
+    background: #ff9933;
+    color: white;
+    font-size: 18px;
+    margin-top: 58px;
+    margin-right: 20px;
+}
+
+.rgb-00ccff {
+    background: #00ccff;
+    color: white;
+}
+.timeTh{
+    background: white;
+    color: black;
+}

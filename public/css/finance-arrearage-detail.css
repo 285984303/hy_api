@@ -1,0 +1,107 @@
+.log-header {
+    min-width: 1040px;
+    padding-top: 20px;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+.bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {
+    width: 220px !important;
+}
+.log-header label {
+	display: inline-block;
+	width: 95px;
+	text-align: right;
+}
+
+.log-header .left {
+	width: 92%;
+	float: left;
+}
+
+.log-header .right {
+	width: 4%;
+	float: right;
+	margin: 45px 4% 0 0;
+}
+.log-searchBtn{
+    width: 70px;
+    margin-right: 30px;
+    height: 36px;
+    background: #f4b856;
+    margin-top: 27px;
+    color: white;
+}
+.log-table{
+    border-collapse:collapse;
+    width: 100%;
+    margin-left: 30px;
+}
+.log-table, .log-table th, .log-table td{
+    border:1px solid #ccc;
+}
+
+.log-table th,.log-table td{
+    vertical-align: middle;
+    height: 45px;
+}
+.log-table td{
+    text-align: center;
+}
+.charge{
+    color: #E53935;
+}
+.reduction{
+    color: rgb(0, 204, 255);
+}
+
+.log-header label {
+    color: #333;
+}
+
+.timeDiv{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.modalIncome>div {
+    width: 550px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+}
+
+.selectDiv div {
+    margin-top: 0;
+}
+.modalIncome div label {
+    display: block;
+    width: 80px;
+    float: left;
+    text-align: right;
+    margin-right: 10px;
+    margin-left: 100px;
+}
+
+.modalIncome div:nth-child(1) {
+    margin-top: 20px;
+}
+
+.modalIncome div input {
+    width: 200px;
+    height: 26px;
+    float: left;
+}
+
+.modalIncome div textarea {
+    width: 220px;
+}
+
+.incomeModal {
+    height: 390px !important;
+}
+
+#moneyNumber {
+    width: 184px !important;
+}

@@ -1,0 +1,106 @@
+.student-already-main{
+	/*min-height: 726px;*/
+	border: 1px solid #ccc;
+	border-top: none;
+}
+.student-already-main h1{
+	background: #394046;
+	height: 60px;
+	line-height: 60px;
+}
+.student-already-main h1 span{
+	display:block;
+	width: 30px;
+	height: 60px;
+	background: #00ccff;
+	float: left;
+}
+.student-already-main h1 b{
+	float: left;
+	display: block;
+	height: 60px;
+	line-height: 60px;
+	font-size: 22px;
+	color: white;
+	margin-left: 30px;
+}
+.student-already-row{
+	margin: 0 2%;
+	height: 170px;
+	border-bottom: 1px solid #ccc;
+	padding: 20px 0;
+}
+.already-left,.already-mid,.already-right{
+	float: left;
+}
+.already-left{
+	width: 30%;
+}
+.already-mid{
+	width: 54%;
+}
+.already-right{
+	width: 16%;
+	text-align: right;
+	line-height: 108px;
+}
+.already-left dt img{
+	display:block ;
+	width: 130px;
+	height: 130px;
+	border: 1px solid #ccc;
+}
+.already-left dt{
+	float:left;
+}
+.already-left dd{
+	float: left;
+	width: 60%;
+	padding: 15px 10px 0 10px;
+	
+}
+.already-mid p{
+	line-height: 36px;
+}
+.already-right .one{
+	color: #00ccff;
+	font-size: 14px;
+	padding-right: 10px;
+}
+.already-right .two{
+	color: #ff3300;
+	font-size: 14px;
+}
+.already-right .one span{
+	display: inline-block;
+	width: 10px;
+	height: 21px;
+	background-image: url(../images/already-img1.png);
+	background-repeat: no-repeat;
+	padding-right: 14px;
+}
+.already-right .two span{
+	display: inline-block;
+	width: 22px;
+	height: 22px;
+	background-image: url(../images/already-img2.png);
+	background-repeat: no-repeat;
+	padding-right: 14px;
+}
+.cacel-txt{
+	padding-top: 56px;
+	width:220px ;
+	margin: 0 auto;
+	line-height: 50px;
+	
+	background: url(../images/del-btn1.png) no-repeat 0 50px;
+}
+.cacel-txt span{
+	font-size: 20px;
+	color: #ff6666;
+	padding-left: 60px;
+}
+.sure-btn1{
+width: 140px;
+	margin: 30px 170px;
+}

@@ -1,0 +1,86 @@
+body,html{
+	width: 100%;
+	height: 100%;
+	background-color: #00ccff;
+	overflow: hidden;
+
+}
+.login-main{
+	margin: 0 auto;
+	width: 806px;
+	z-index: 99;
+}
+.logo-image{
+	display: block;
+	width: 100%;
+}
+.login-main .login-form{
+	width: 300px;
+	margin: 0 auto;
+	padding-top: 15px;
+}
+.user-form-input{
+	clear: both;
+	margin-top: 10px;
+}
+.user-login-input{
+	background-color: #fff;
+	border: none;
+	width: 100%;
+	height: 35px;
+	line-height:35px;
+	border-radius: 5px;
+	padding-left: 5px;
+}
+.input-left{
+	width: 45%;
+	float: left;
+
+}
+.input-right{
+	width: 45%;
+	float: right;
+
+}
+
+.user-form-submit{
+	width: 100%;
+}
+.user-form-submit input{
+	border: none;
+	width: 100%;
+	height: 35px;
+	border-radius: 5px;
+	background-color: #dca512;
+	color: #fff;
+	margin-top: 10px;
+}
+.user_bottom{
+	width: 100%;
+	position: absolute;
+	bottom: -10px;
+
+}
+
+.checkCode {
+    background: #29B5A7;
+    color: white;
+}
+
+.msgcode_login{
+	font-size:14px;
+	color:#fff;
+	cursor:pointer;
+	display:none;
+}
+.password_login{
+	font-size:14px;
+	color:#fff;
+	cursor:pointer;
+}
+.login_method{
+	margin-top:10px;
+}
+.password{
+	display:none;
+}

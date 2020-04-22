@@ -1,0 +1,93 @@
+.student-apply-main{
+	min-height: 726px;
+	min-width:1040px;
+}
+.student-apply-main .tempo{
+	display: block;
+	width: 80%;
+	margin:56px 10%;
+}
+.student-apply-main p{
+	margin:20px 10%;
+	font-size: 20px;
+}
+.student-apply-main .apply-tempo{
+	width: 100%;
+	border-bottom: 1px solid #ccc;
+}
+.student-apply-main .apply-tempo img{
+	width: 80%;
+	display: block;
+	margin: 40px 10%;
+}
+.choose-teach{
+	margin: 0 10%;
+}
+.choose-teach a{
+	display: inline-block;
+	width: 10%;
+	height: 46px;
+	line-height: 46px;
+	background: #ccc;
+	margin: 0 6%;
+	border-radius: 5px;
+	text-align: center;
+	font-size: 18px;
+	color: #878b2b;
+}
+.choose-teach div{
+	margin-top: 60px;
+}
+.choose-teach div span{
+	display: inline-block;
+	width:18% ;
+	color: #878b2b;
+	font-size: 20px;
+}
+.apply-btn{
+	width: 100%;
+	margin: 100px auto;
+}
+.apply-btn-box{
+    margin: 0 auto;
+    width: 600px;
+    margin-left: 430px;
+
+}
+/*状态样式*/
+.apply-tempo img{
+	display: block;
+	width: 95%;
+	margin: 0 auto;
+	margin-top:30px ;
+}
+.apply-tempo .plan-status{
+	width: 80%;
+	margin-top: -36px;
+	height: 60px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.apply-tempo .plan-status li{
+	float: left;
+	width: 14%;
+}
+.status-red{
+	color: #FF0000;
+}
+.status-no{
+	color: #999;
+}
+.status-green{
+	color: #00cc66;
+}
+
+.apply-tempo .plan-status li>span{
+	display: block;
+	font-size: 12px;
+}
+.apply-tempo .plan-status li>a{
+	display: block;
+	font-size: 12px;
+}
+/*结束*/

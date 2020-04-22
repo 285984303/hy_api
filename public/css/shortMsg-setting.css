@@ -1,0 +1,205 @@
+.student-hours-main {
+    margin: 20px 2% 0 2%;
+    width: 96%;
+    min-height: 618px;
+}
+
+.student-hours-main .hours-head {
+    width: 100%;
+    height: 100%;
+    float: left;
+    background: #00CCFF;
+}
+
+.student-hours-main .hours-head button {
+    display: inline-block;
+    background: #FF9900;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: white;
+    margin-left: 8%;
+    margin-top: 30px;
+}
+
+.student-hours-main .hours-head label {
+    color: white;
+    margin-left: 20px;
+    font-size: 16px;
+    display: block;
+    min-width: 70px;
+    float: left;
+}
+
+.student-hours-main .hours-head input {
+    width: 10%;
+    height: 28px;
+    line-height: 22px;
+    margin-left: 10px;
+    float: left;
+}
+
+.student-hours-main .hours-head .select2 {
+    width: 10.3% !important;
+    margin-left: 10px;
+    float: left;
+}
+
+.student-tale-main {
+    margin-top: 10px;
+}
+
+.student-tale-main .submain_up_title {
+    height: 47px;
+    min-width: 520px;
+    width: 40%;
+    float: left;
+}
+
+.select2-container .select2-selection--single {
+    height: 32px !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 32px !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 32px !important;
+}
+
+.p_group {
+    width: 47%;
+    float: right;
+    min-width: 460px;
+}
+
+.p_group p {
+    display: block;
+    float: left;
+    width: 30%;
+    margin-top: 20px;
+    text-align: right;
+    margin-left: 7px;
+}
+
+.p_group p span {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.student-tale-main .submain_up_title li {
+    width: 120px;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    float: left;
+    border: 1px solid #ccc;
+}
+
+.student_on {
+    background: #00CCFF;
+    color: white;
+    border: 0;
+}
+
+.submain_main_tab {
+    margin-top: 10px;
+}
+
+.submain_main_tab tr th {
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+.submain_main_tab tr td {
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+.submain_main_tab tr td .trainPic {
+    color: #6acdfa;
+    margin-right: 10px;
+}
+
+.submain_main_tab tr td .printLog {
+    color: #FF9933;
+    margin-right: 10px;
+}
+
+.coach-main-title a {
+    display: inline-block;
+    float: right;
+    width: 90px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    margin-right: 2%;
+    background: #FF9933;
+    color: white;
+    font-size: 14px;
+}
+
+.div1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 80%;
+    float: left;
+}
+
+.div2 {
+    width: 80%;
+    float: left;
+    margin-bottom: 10px;
+
+}
+
+.laydate-icon {
+    padding-right: 0 !important;
+}
+
+.modalIncome div {
+    width: 600px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+}
+
+.modalIncome div label {
+    display: block;
+    width: 80px;
+    float: left;
+    text-align: right;
+    margin-right: 10px;
+    margin-left: 131px;
+}
+
+.modalIncome div:nth-child(1) {
+    margin-top: 40px;
+}
+
+.modalIncome div input[type=text] {
+    width: 200px;
+    height: 26px;
+    float: left;
+}
+
+.modalIncome div textarea {
+    width: 300px;
+    height: 160px;
+    float: left;
+}
+
+.incomeModal {
+    height: 390px !important;
+}
+
+#moneyNumber {
+    width: 184px !important;
+}

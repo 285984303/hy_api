@@ -1,0 +1,141 @@
+.coach-log-main-content{
+    width: 96%;
+    height: 100%;
+    min-width: 1050px;
+}
+.coach-log-main-content .log-header{
+    height: 67px;
+    width: 100%;
+    background: rgb(0,204,255);
+    margin-left: 30px;
+    margin-top: 15px;
+    color: white;
+    font-size: 17px;
+}
+#trainTime{
+    padding-right: 0px;
+    border: 1px solid #ccc;
+}
+.select2{
+    width: 66%!important;
+}
+.select2-container--default .select2-selection--single{
+    border-radius: 0px!important;
+}
+.select2-container .select2-selection--single{
+    height: 34px!important;
+}
+.log-searchBtn{
+    width: 80px;
+    height: 36px;
+    background: rgb(255,153,51);
+    color: white;
+    float: right;
+    margin-right: 5%;
+}
+.log-table{
+    border-collapse:collapse;
+    width: 100%;
+    margin-left: 30px;
+}
+.log-table, .log-table th, .log-table td{
+    border:1px solid #ccc;
+}
+.coach-log-main-content .input-group form input{
+    width:57%;
+    height: 30px;
+    line-height: 30px;
+}
+.sequence-submit{
+	width: 33%;
+    background: #ff9933;
+    height: 30px;
+    color: white;
+    border: none;
+    margin-left: 10px;
+    border: none;
+}
+.specil-div form{
+	width: 200px;
+    margin: 0 auto;
+}
+.sequence-text{
+	width: 33%;
+	height: 26px;
+	line-height: 26px;
+	border: 1px solid #ccc;
+}
+
+.log-table th{
+    height: 45px;
+    vertical-align: middle;
+}
+.log-table td{
+   height: 45px;
+    text-align: center;
+    vertical-align: middle;
+
+}
+.agreement{
+    color: #8fd7fb;
+}
+.reject{
+    color: #eb4a3e;
+}
+.log-header .input-group{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.timeSpan{
+    margin-top: 25px;
+    font-size: 15px;
+    color: #bdbdbd;
+    margin-right: 10px;
+}
+.complaintContent{
+    margin-top: 35px;
+}
+.levelTd{
+    color: #f1928c;
+}
+.name{
+    margin-left: -3%;
+}
+.inputLeft{
+    width: 17%;
+}
+.mobileDiv{
+    margin-left: -12px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 33px !important;
+}
+.select2-container .select2-selection--single .select2-selection__rendered{
+    text-align: left!important;
+}
+.btn-top{
+    background: url("../../images/btn-top.png");
+    width: 18px;
+    height: 23px;
+    display: block;
+    float: left;
+    margin-left: 5px;
+}
+.btn-bot{
+    background:url("../../images/btn-bot.png");
+    width: 18px;
+    height: 23px;
+    display: block;
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.btn-v-top{
+    background: url("../../images/btn-v-top.png");
+    width: 18px;
+    height:  23px;
+    display: block;
+    float: left;
+}

@@ -1,0 +1,277 @@
+
+.coach-log-main-content .log-header{
+    height: 60px;
+    width: 96%;
+    background: rgb(0,204,255);
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.coach-log-main-content .log-header>p{
+    font-size: 17px;
+    color: white;
+    margin-left: 20px;
+    line-height: 3.3;
+}
+.log-table{
+    border-collapse:collapse;
+    width:96%;
+    margin-left: 30px;
+}
+.log-table {
+    border:1px solid #ccc;
+}
+.log-table th, .log-table td{
+    border-bottom:1px solid #ccc;
+}
+.log-table td .btn{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.log-table td button{
+    width: 70%;
+    color: white;
+    display: block;
+    background: #f19e4a;
+    height: 30px;
+    font-size: 16px;
+}
+.deleteBtn{
+    background: #ccc!important;
+}
+.alterBtn{
+    margin-top: 10px!important;
+}
+.log-table th,.log-table td{
+    vertical-align: middle;
+    text-align: center;
+    height: 45px;
+}
+.htmlNo p{
+    width: 20%;
+    float: left;
+    margin-top: 10px;
+    text-align: left;
+    min-width: 250px;
+}
+.htmlNo p>span:nth-child(1){
+    margin-right: 15px;
+}
+.log-table td{
+    text-align: center;
+}
+
+
+/*modal*/
+.modal-12{
+    width: 524px;
+    margin: 0 auto;
+   height: 500px;
+
+}
+.modalAlter{
+    width: 524px;
+    margin: 0 auto;
+    height: 100%;
+    margin-bottom: 50px;
+}
+.layui-layer {
+    width: 600px !important;
+
+}
+.modalHeader{
+    width: 450px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.modalContent{
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.modalContent .editDiv{
+    margin-top: 105px;
+    margin-bottom: 205px;
+}
+.setDiv{
+    margin-top: 55px;
+    margin-bottom: 60px;
+}
+.setDiv p{
+    text-align: left;
+}
+.modalHeader p {
+    font-size: 15px;
+    color: #ccc;
+    cursor: pointer;
+    float: left;
+}
+.editContent_p{
+    font-size: 15px;
+    color: #999999;
+    margin-bottom: 20px;
+}
+.modal-12 input[type=text]{
+    height: 30px;
+    width: 220px;
+    margin-left: 4px;
+}
+.modal-12 textarea{
+    height: 100px;
+    width: 220px;
+    margin-left: 4px;
+    margin-bottom: 20px;
+}
+.modal-12 label {
+    margin-left: 102px;
+}
+.width600{
+    width: 500px;
+    margin-top: 30px;
+}
+.modal-12 a,.modalAlter a{
+    color: blue;
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.arrowIcon{
+    display: block;
+    width: 44px;
+    height: 22px;
+    background: url("../../images/arrow.gif");
+    margin: 0 44px;
+}
+.p-active{
+    color: #2E2D3C!important;
+}
+.btnGroup{
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.btnGroup button{
+    width: 100px;
+    height: 35px;
+    color: white;
+}
+.btn_left{
+    background: #33ccff;
+    margin-right: 146px;
+}
+.btn_right{
+    background-color: #33ccff;
+}
+.coach_group{
+    width: 100%;
+    height: 250px;
+    border: 1px solid #ccc;
+    overflow-y: auto;
+}
+.coach_group div{
+    width: 33%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.addDiv{
+    margin-top: 30px;
+    width: 100%;
+    height: 358px;
+}
+.rightInput{
+    margin-left: 20%!important;
+}
+.addDiv input{
+    width: 60% !important;
+    border: 1px solid #ccc;
+}
+.leftInput{
+    margin-left: 0!important;
+}
+.addLeft{
+    width: 50%;
+    height: 100%;
+}
+.addRight{
+    width: 50%;
+    height: 100%;
+}
+.addRight span{
+    display: block;
+    float: left;
+    margin-left: 44px;
+    line-height: 3;
+}
+.addLeftContent{
+    width: 80%;
+    border: 1px solid #ccc;
+    height: 75%;
+    overflow-y: auto;
+    margin-top: 50px;
+}
+.addRightContent{
+    width: 80%;
+    border: 1px solid #ccc;
+    height: 75%;
+    margin-top: 50px;
+    overflow-y: auto;
+    margin-left: 20%;
+}
+.addLeftContent p{
+    text-align: left;
+    width: 100%;
+    height: 25px;
+    cursor: pointer;
+}
+.addRightContent p{
+    text-align: center;
+    width: 100%;
+    height: 25px;
+    cursor: pointer;
+
+}
+.addRightContent p:nth-child(odd){
+    background: #d4d4d4;
+}
+.addRightContent p:nth-child(even){
+    background: #e4e4e4;
+}
+.modalAlter a{
+    font-size: 12px!important;
+    display: none;
+}
+.width600 p{
+    width: 160px;
+    line-height: 30px;
+}
+.width600 div{
+    width: 470px;
+    height: 100%;
+    margin-left: 80px;
+    margin-top: -24px;
+}
+.width600 div span{
+    margin-left: 15px;
+    cursor: pointer;
+}
+.width600 label{
+    margin-left: 50px!important;
+}
+.groupName{
+    width: 300px!important;
+    height: 30px;
+}
+.deleteIcon{
+    background: url("../../images/delBtn.png");
+    width: 18px;
+    height: 18px;
+    display: block;
+    float: right;
+    margin-top: 3px;
+}

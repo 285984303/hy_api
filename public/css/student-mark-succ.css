@@ -1,0 +1,96 @@
+.student-mark-succ-main{
+	min-height: 726px;
+	min-width: 1040px;
+	margin: 1% 30px 1% 300px;
+	border: 1px solid #ccc;
+	border-top: none;
+}
+.student-mark-succ-main h1{
+	background: #394046;
+	height: 60px;
+	line-height: 60px;
+}
+.student-mark-succ-main h1 span{
+	display:block;
+	width: 30px;
+	height: 60px;
+	background: #00ccff;
+	float: left;
+}
+.student-mark-succ-main h1 b{
+	float: left;
+	display: block;
+	height: 60px;
+	line-height: 60px;
+	font-size: 22px;
+	color: white;
+	margin-left: 30px;
+}
+.student-mark-succ-main .succ-submain{
+	width: 62%;
+	margin: 0 auto;
+}
+.student-mark-succ-main h1 a{
+	display: inline-block;
+	float: right;
+	color: #d4e645;
+	margin-right: 20px;
+	font-size: 18px;
+}
+.succ-submain .first-row{
+	margin-top: 50px;
+	height: 76px;
+	line-height: 76px;
+	background: url(../images/smaile.png) no-repeat;
+}
+.succ-submain .first-row span{
+	font-size: 24px;
+	color: #00ccff;
+	padding-left:128px;
+}
+.succ-submain .wrap{
+	margin:56px 0 0 78px;
+}
+.succ-submain .wrap p{
+	line-height: 44px;
+	font-size: 18px;
+}
+.succ-submain .wrap p span{
+	font-size: 18px;
+	padding-left: 50px;
+}
+.succ-submain .wrap p span b{
+	font-size: 18px;
+}
+.succ-submain .wrap p span b .time-pic{
+    text-decoration: none;
+    font-size: 14px;
+}
+.succ-submain .wrap p span .b-two{
+	padding-left: 128px;
+}
+.succ-submain .wrap .first-wrap{
+	background: url(../images/clock.png) no-repeat 0 10px;
+}
+.succ-submain .wrap .sec-wrap{
+	background: url(../images/man-succ.png) no-repeat 0 10px;
+}
+.succ-submain .wrap .th-wrap{
+	background: url(../images/car-succ.png) no-repeat 0 10px;
+}
+.succ-submain .wrap .fo-wrap{
+	background: url(../images/time-succ.png) no-repeat 0 10px;
+}
+.succ-submain .wrap .fi-wrap{
+	background: url(../images/shuttle-succ.png) no-repeat 0 10px;
+}
+.foot-btn{
+	margin-left: 270px;
+	}
+	.foot-sub{
+		width: 370px;
+		width: 370px;
+		margin: 0 auto;
+	}
+.foot-btn input{
+margin-left: 40px;}

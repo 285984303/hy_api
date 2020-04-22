@@ -1,0 +1,211 @@
+
+.student-details-main h1{
+	background: #394046;
+	height: 60px;
+	line-height: 60px;
+}
+.student-details-main h1 span{
+	display:block;
+	width: 30px;
+	height: 60px;
+	background: #00ccff;
+	float: left;
+}
+.student-details-main h1 b{
+	float: left;
+	display: block;
+	height: 60px;
+	line-height: 60px;
+	font-size: 22px;
+	color: white;
+	margin-left: 30px;
+}
+.student-details-submain{
+	min-width: 538px;
+	margin: 1% 2%;
+}
+.list-con-one{
+	min-width: 538px;
+	margin-top: 26px;
+	min-height: 220px;
+	border-bottom: 1px solid #ccc;
+}
+.list-con-one .con-left{
+	width: 50%;
+	float: left;
+	border-right:1px dashed #ccc ;
+}
+.list-con-one .con-subright{
+	width: 49%;
+	float: left;
+}
+.list-con-one .con-mid p{
+	line-height: 60px;
+	font-size: 14px;
+}
+.list-con-one .con-mid .p_one span{
+	color: #3fd35a;
+}
+.list-con-one .con-mid .p_two span{
+	color: #ffa85a;
+}
+.list-con-one .con-submid p{
+	padding-left: 60px;
+	line-height: 120px;
+}
+.list-con-one .con-submid p span{
+	color: #ff0000;
+}
+.list-con-one .con-left dt{
+	float: left;
+}
+.list-con-one .con-left .one a{
+	display: inline-block;
+	width: 42px;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+	background: #00ccff;
+	border-radius: 5px;
+	margin-left: 20px;
+	font-size: 12px;
+	color: white;
+}
+.list-con-one .con-left img{
+	width: 130px;
+	height: 130px;
+	border: 1px solid #ccc;
+}
+.list-con-one .con-left dd{
+	float: left;
+	padding:10px 0 10px 20px;
+	font-size: 14px;
+	width: 66%;
+}
+.list-con-one .con-left dd b{
+	color: #00ccff;
+}
+.list-con-one .con-left dd span{
+	padding-right: 30px;
+}
+.con-mid,.con-submid,.con-right{
+	float: left;
+	width: 33%;
+	min-height: 120px;
+	line-height: 120px;
+	text-align: center;
+}
+.list-con-one .con-more{
+	width: 100%;
+	line-height: 36px;
+	font-size: 16px;
+	float: left;
+}
+.start-one{
+	width: 95%;
+	height: 300px;
+	padding: 60px 0;
+	border-bottom: 1px solid #ccc;
+}
+.start-one-left,.start-one-mid,.start-one-right{
+	width: 33%;
+	float: left;
+	text-align: center;
+	border-right: 1px dashed #ccc;
+}
+.start-one-left .p-big{
+	color: #999;
+	font-size: 26px;
+}
+.start-one-left .p-big{
+	font-size: 18px;
+}
+.start-one-left .p-small{
+	font-size: 18px;
+	padding-top: 12px;
+}
+.start-one-left .p-small span{
+	color: #ff9933;
+}
+.start-one-left .span-big{
+	font-size: 80px;
+	color: #ff9933;
+}
+.start-one-mid p{
+	padding-bottom: 26px;
+}
+.start-one-mid p span{
+	color: #ff0000;
+	padding-left: 20px;
+}
+.start-one-right{
+	border-right: none;
+}
+.start-one-right .right-wrap{
+	width: 90%;
+	margin: 0 auto;
+	padding-bottom: 41px;
+}
+.start-one-right .right-wrap span{
+	color: #ff9933;;
+}
+.start-one-right .big{
+	width: 70%;
+	height: 16px;
+	background: #ccc;
+	float: left;
+}
+.start-one-right .small{
+	height: 16px;
+	background: #ff9933;
+}
+.start-one-right span{
+	width: 15%;
+	display: inline-block;
+	float: left;
+}
+.start-one-right b{
+	width: 15%;
+	display: inline-block;
+	float: left;
+}
+.start-two{
+	height: 92px;
+	margin-top: 26px;
+	border-bottom: 1px solid #ccc;
+}
+.start-two dl{
+	float: left;
+	width: 66px;
+}
+.start-two dl dt{
+	width: 66px;
+	height: 64px;
+}
+.start-two dl dt img{
+	display: block;
+	width: 100%;
+}
+.start-two dl dd{
+	line-height: 28px;
+	text-align: center;
+}
+.start-two div{
+	float: left;
+	width: 92%;
+}
+.start-two div .p-first a{
+	display: inline-block;
+	width: 19%;
+	padding-left: 2%;
+	line-height: 44px;
+	border-bottom: 1px dashed #ccc;
+}
+.start-two div .p-first a img{
+	display: inline-block;
+	width: 50%;
+}
+.start-two div .p-sec{
+	line-height: 30px;
+	margin-left: 3%;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "js",
+  "authors": [
+    "tony37 <tony@hongjitech.cn>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^1.11.3"
+  }
+}

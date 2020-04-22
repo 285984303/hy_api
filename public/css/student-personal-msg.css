@@ -1,0 +1,184 @@
+
+.title-down{
+	margin: 20px 1%;
+	height: 170px;
+}
+.title-down dl{
+	float: left;
+	width: 38%;
+}
+.title-down dl .dd-first{
+	font-size: 18px;
+}
+.title-down dl .dd-first label{
+	font-size: 18px;
+}
+.title-down dl .dd-first span{
+	font-size: 18px;
+	padding-left: 10px;
+}
+.title-down dl dt{
+	float: left;
+}
+.title-down dl dt img{
+	display: block;
+	width: 116px;
+	height: 130px;
+	border: 1px solid #ccc;
+}
+.title-down dl dd{
+	float: left;
+	width: 56%;
+	padding:5px 0  10px 20px;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+}
+
+.title-down .left{
+	float: left;
+	width: 20%;
+	padding:40px 0 0 10px;
+}
+.title-down .left p{
+	line-height: 34px;
+}
+.title-down .mid p{
+	line-height: 34px;
+}
+.title-down .mid{
+	float: left;
+	width: 20%;
+	padding:40px 0 0 10px;
+}
+
+.title-down .right{
+	float: left;
+	width: 20%;
+	text-align: right;
+	color: #00ccff;
+}
+/*状态样式*/
+.plan-img img {
+	display: block;
+	width: 95%;
+	margin: 0 auto;
+	margin-top:30px ;
+}
+
+.plan-img .plan-status {
+	width: 95%;
+	padding-left: 55px;
+	margin-top: -18px;
+	height: 60px;
+}
+
+.plan-img .plan-status li {
+	float: left;
+	width: 14%;
+}
+.status-red{
+	color: #FF0000;
+}
+.status-no{
+	color: #999;
+}
+.status-green{
+	color: #00cc66;
+}
+
+.plan-img .plan-status li > span {
+	display: block;
+	font-size: 12px;
+}
+
+.plan-img .plan-status li > a {
+	display: block;
+	font-size: 12px;
+}
+/*结束*/
+.submain_up_title{
+	width: 98%;
+	height: 34px;
+}
+.submain_up_title li{
+	float: left;
+	width: 104px;
+	height: 34px;
+	line-height: 34px;
+	text-align: center;
+	border: 1px solid #ccc;
+	border-bottom: none;
+}
+.submain_main_tab tr th{
+	text-align: center;
+	line-height: 34px;
+	border: 1px solid #ccc;
+	background: #f9cf7b;
+}
+.submain_main_tab tr td{
+	text-align: center;
+	line-height: 34px;
+	border: 1px solid #ccc;
+}
+.submain_main_tab td p{
+	float: left;
+	height: 34px;
+	line-height: 34px;
+}
+
+.tale-main {
+	margin: 20px 2%;
+}
+.personal_on{
+    background: #5897FB;
+	color: white;
+    border: 1px solid #5897FB;
+}
+/*coach detail css*/
+
+
+.tale-main1 {
+	margin: 20px 2%;
+}
+
+.tale-main1 table tr {
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
+
+.tale-main1 table th {
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	line-height: 40px;
+}
+
+.tale-main1 table tr td {
+	text-align: center;
+	line-height: 40px;
+	border-bottom: 1px solid #ccc;
+}
+
+.add-bei {
+	margin-left: 2%;
+	margin-top: 20px;
+}
+
+.add-bei input {
+	width: 200px;
+	height: 24px;
+	margin-left: 10px;
+	line-height: 24px;
+	display: inline-block;
+}
+
+.add-bei a {
+	display: inline-block;
+	width: 60px;
+	height: 30px;
+	background: #ff9933;
+	text-align: center;
+	line-height: 30px;
+	margin-left: 15px;
+	color: white;
+}

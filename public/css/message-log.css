@@ -1,0 +1,43 @@
+.message-main{
+	margin: 0 2%;
+	min-height: 618px;
+}
+.message-head{
+	background: #00CCFF;
+	height: 50px;
+	line-height: 50px;
+	margin-top: 15px;
+}
+.message-head form{
+	height: 50px;
+	line-height: 50px;
+}
+.message-head button{
+	float: right;
+	background: #FF9900;
+	width: 80px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	margin-right: 2%;
+	color: white;
+	margin-top: 10px;
+}
+.message-head input{
+	height: 26px;
+	line-height: 26px;
+	width: 10%;
+}
+.message-head label{
+	color: white;
+	padding-left: 10px;
+}
+.message-main table tr th{
+	line-height: 40px;
+	border: 1px solid #ccc;
+}
+.message-main table tr td{
+	line-height: 40px;
+	text-align: center;
+	border: 1px solid #ccc;
+}

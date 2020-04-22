@@ -1,0 +1,73 @@
+.coach-log-main-content{
+    width: 96%;
+    margin-top: 35px;
+    height: 100%;
+    margin-left: 2%;
+}
+.log-header{
+    width: 100%;
+    height: 43px;
+}
+.log-content{
+    width: 100%;
+    height: 500px;
+    margin-top: 10px;
+}
+.content-top{
+    width: 100%;
+}
+.content-area{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    border-bottom: 1px solid #ccc;
+}
+
+.content-area span{
+	display: inline-block;
+	line-height: 50px;
+	font-size: 20px;
+	padding-left: 20px;
+}
+
+.wage-sure-btn{
+	float: right;
+    width: 100px;
+    height: 40px;
+    background: #ff9933;
+    color: white;
+    font-size: 18px;
+}
+.wage-sure-detail{
+	 display: inline-block;
+    float: right;
+    line-height: 40px;
+    color: #ff9933;
+    padding-right: 10px;
+}
+.content-top-detail,.content-middle-detail,.content-bottom-detail{
+    height: 130px;
+    width: 100%;
+}
+select{
+    width: 100px;
+}
+.chargeDiv{
+    margin-right: 20px;
+}
+
+.detail_p{
+    margin-left: 4%;
+    font-size: 17px;
+    margin-top: 30px;
+}
+.detail_p span{
+    margin-right: 2%;
+    margin-left: 10px;
+}
+.top-span{
+    margin-right: 0!important;
+    margin-left: 0!important;
+}
+
+

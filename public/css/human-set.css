@@ -1,0 +1,73 @@
+.hunan-money-set-submain{
+	margin: 1% 2%;
+}
+.set-wrap{
+	min-height: 270px;
+	border: 1px solid #ccc;
+}
+
+.set-wrap .head{
+	height: 44px;
+	line-height: 44px;
+	background: #4d85ef;
+	border: 1px solid #4d85ef;
+}
+.set-wrap .head strong{
+	color: white;
+	font-size:16px ;
+	padding-left: 20px;
+}
+.set-wrap .head span{
+	color: white;
+	padding-left: 20px;
+}
+
+.sure-bin, .sure-bin:hover, .sure-bin:active {
+	height: 36px;
+	background-color: #4d85ef;
+	line-height: 36px;
+	width: 100px;
+	text-align: center;
+	color: white;
+	display: inline-block;
+	font-size: 14px;
+	border-radius: 4px;
+	margin-top: 130px;
+
+}
+.set-wrap .down input{
+	height: 30px;
+	line-height: 30px;
+	width: 210px;
+}
+.set-wrap .down span{
+	display: inline-block;
+	margin-top: 15px;
+}
+.set-wrap .down .down-up{
+	margin-top: 15px;
+	float: left;
+}
+.set-wrap .down .down-up1{
+	margin-top: 15px;
+	width: 580px;
+	margin-left: 20px;
+	float: left;
+}
+.set-wrap .down label{
+	color: #E53935;
+	padding:0 20px;
+}
+
+button.add {
+	border: 1px solid #4d85ef;
+	background-color: white;
+	color: #4d85ef;
+	font-size: 14px;
+	height: 36px;
+	line-height: 36px;
+	border-radius: 4px;
+	padding: 0 15px;
+	margin-left: 50px;
+	margin-right: 50px;
+}

@@ -1,0 +1,238 @@
+/*mask start*/
+#loader_container {
+	display: block;
+	top: -12.4rem;
+	left: 0;
+	position: absolute;
+	text-align: center;
+	z-index: 90000;
+}
+
+.page-spinner-bar {
+	position: fixed;
+	z-index: 99999;
+	width: 100px;
+	top: 40%;
+	left: 50%;
+	margin-left: -55px;
+	text-align: center;
+}
+
+.page-spinner-bar > div {
+	margin: 0 5px;
+	width: 18px;
+	height: 18px;
+	background: #00ccff;
+	border-radius: 100% !important;
+	display: inline-block;
+	-webkit-animation: bounceDelay 1.4s infinite ease-in-out;
+	animation: bounceDelay 1.4s infinite ease-in-out;
+	/* Prevent first frame from flickering when animation starts */
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+}
+
+.page-spinner-bar .bounce1 {
+	-webkit-animation-delay: -0.32s;
+	animation-delay: -0.32s;
+}
+
+.page-spinner-bar .bounce2 {
+	-webkit-animation-delay: -0.16s;
+	animation-delay: -0.16s;
+}
+
+@-webkit-keyframes bounceDelay {
+	0%, 80%, 100% {
+		-webkit-transform: scale(0);
+	}
+	40% {
+		-webkit-transform: scale(1);
+	}
+}
+
+@keyframes bounceDelay {
+	0%, 80%, 100% {
+		transform: scale(0);
+		-webkit-transform: scale(0);
+	}
+	40% {
+		transform: scale(1);
+		-webkit-transform: scale(1);
+	}
+}
+
+/*mask end*/
+/**头部公共样式*/
+.coach-find-head{
+	height: 30px;
+	background: #008eb2;
+	min-width:1340px;
+}
+.coach-find-head .coach-find-one{
+	float: left;
+	padding-left: 30px;
+	line-height: 30px;
+	color: white;
+}
+.coach-find-name{
+	color: #ffff33;
+	}
+.coach-find-head p span{
+		padding: 0 5px;
+	}
+.coach-find-head p .coach-find-msg{
+	padding-left: 60px;
+	color: #ffff33;
+}
+.coach-find-two{
+	float: right;
+	line-height: 30px;
+	padding-right: 30px;
+	color: white;
+}
+.coach-find-two a{
+	color: white;
+	padding: 0 5px;
+}
+/**顶部banner公共样式*/
+.coach-find-banner{
+	height: 140px;
+	min-width: 1340px;
+	background: #00ccff;
+}
+.coach-find-banner-left{
+	line-height: 140px;
+	float: left;
+	padding-left: 30px;
+}
+.coach-find-banner-left img{
+	vertical-align:middle;
+}
+.coach-find-banner-mid{
+	float: left;
+	padding-top: 62px;
+}
+.coach-find-banner-mid span{
+	font-size: 36px;
+	color: white;
+	padding-left: 15px;
+}
+.coach-find-banner-right{
+	float: right;
+}
+.coach-round-one{
+	float: left;
+	padding: 32px 50px 0 0;
+	
+}
+.coach-round-two{
+	float: left;
+	padding: 32px 50px 0 0;
+	
+}
+.coach-round-one dd a{
+	color: white;
+	font-size: 14px;
+}
+.coach-round-two dd a{
+	color: white;
+	font-size: 14px;
+	
+}
+/**左边导航公共样式*/
+.coach-find-nav{
+	width: 270px;
+	float: left;
+	min-height: 800px;
+	background: #394046;
+}
+.coach-find-nav h1{
+	height: 103px;
+	line-height: 103px;
+	background: url(../images/student-icon1.png) no-repeat 50px center;
+	padding-left: 100px;
+	font-size: 22px;
+	color: #fff;
+	border-bottom: 1px solid #ccc;
+}
+.coach-find-nav-title>li>a{
+	height: 60px;
+	line-height: 60px;
+	display: block;
+	border-bottom: 1px solid #ccc;
+	padding-left: 25px;
+	font-size: 18px;
+	color: #fff;
+	background: #394046;
+}
+.coach-find-nav-title>li>a span{
+	width: 30px;
+	display: inline-block;
+	margin-right: 20px;
+	vertical-align: middle;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.personal_center span{
+	height: 28px;
+	background-image: url(../images/student-icon2.png);
+}
+.user_control span{
+	height: 26px;
+	background-image: url(../images/student-icon3.png);
+}
+.comp_maintain span{
+	height: 30px;
+	background-image: url(../images/student-icon5.png);
+}
+.operating_center span{
+	height: 30px;
+	background-image: url(../images/student-icon6.png);
+}
+.find-coach span{
+	height: 30px;
+	background-image: url(../images/student-icon7.png);
+}
+.coach-find-nav-title>li>a>i{
+	width: 19px;
+	height: 10px;
+	margin-left: 45px;
+	vertical-align: middle;
+	display: inline-block;
+	background: url(../images/top.png) no-repeat center center;
+}
+.coach-find-nav-title>li>a.active{
+	background: #00ccff;
+}
+.coach-find-nav-title>li>a.active i{
+	background: url(../images/bottom.png) no-repeat center center;
+}
+.coach-find-nav-content{
+	display: none;
+	overflow: hidden;
+}
+.coach-find-nav-content>li>a{
+	height: 60px;
+	line-height: 60px;
+	display: block;
+	border-bottom: 1px solid #666666;
+	padding-left: 50px;
+	font-size: 16px;
+	color: #fff;
+	background: #394046;
+}
+.coach-find-nav-content>li>a span{
+	display: inline-block;
+	width: 21px;
+	height: 10px;
+	margin-right: 20px;
+	vertical-align: middle;
+	background: none;
+}
+.coach-find-nav-content>li.on>a{
+	background: #ff9933;
+}
+.coach-find-nav-content>li.on>a span{
+	background: url(../images/student-icon4.png) no-repeat center center;
+}

@@ -1,0 +1,10 @@
+<?php namespace App\Models;
+/**
+ * Created by PhpStorm.
+ * User: Will
+ * Date: 5/31/16
+ * Time: 12:01 PM
+ */
+
+class NotFound extends \Exception {
+}

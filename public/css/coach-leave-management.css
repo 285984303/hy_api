@@ -1,0 +1,45 @@
+.coach-log-main-content{
+    width: 96%;
+    margin-top: 35px;
+    height: 100%;
+    margin-left: 2%;
+}
+.log-header{
+    width: 100%;
+    height: 43px;
+}
+.log-content{
+    width: 100%;
+    height: 500px;
+}
+select{
+    width: 100px;
+}
+
+.chargeDiv{
+    margin-right: 20px;
+}
+
+.leave_btn{
+    background: #4CAF50;
+    color: white;
+    height: 34px;
+    width: 100px;
+    font-size: 16px;
+}
+
+.btn-div{
+    height: 50px;
+}
+
+
+
+.leaveTable .ing{
+	padding-right: 5px;
+}
+.leaveTable .down{
+	padding-left: 5px;
+}
+.modal-19 .row{
+	margin-bottom: 20px;
+}

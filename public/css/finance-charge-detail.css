@@ -1,0 +1,213 @@
+
+.checkName {
+    width: 200px !important;
+}
+
+
+.charge {
+    color: #55a4f8;
+}
+.wrap {
+    margin-left: 190px;
+}
+
+.form-horizontal .control-label[class*=col-lg-] {
+    padding-top: 0 !important;
+}
+.wrap div {
+    line-height: 60px;
+}
+
+.wrap div label {
+    font-size: 18px;
+    color: #666;
+    padding-right: 10px;
+    display: inline-block;
+    width: 90px;
+}
+
+.wrap div span {
+    font-size: 18px;
+    color: #666;
+}
+
+.wrap div select {
+    width: 244px;
+    height: 42px;
+    line-height: 42px;
+}
+
+.wrap div input {
+    width: 240px;
+    height: 40px;
+    line-height: 40px;
+    margin-right: 10px;
+}
+
+.wrap .sure-btn {
+    width: 126px;
+    height: 46px;
+    background: #33ccff;
+    color: white;
+    font-size: 20px;
+    border: none;
+}
+
+.wrap .cancel-btn {
+    width: 126px;
+    height: 46px;
+    background: #ccc;
+    color: white;
+    font-size: 20px;
+    border: none;
+}
+
+.wrap .foot {
+    margin-top: 30px;
+    margin-left: -40px;
+}
+
+.wrap .foot .cancel-btn {
+    margin-left: 210px;
+}
+
+.modalBanlance table {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.modalBanlance table th, .modalBanlance table td {
+    vertical-align: middle;
+    border: 1px solid #ccc;
+    text-align: center;
+    height: 45px;
+}
+
+.firstTable {
+    margin-top: 20px;
+}
+
+.secondTable th {
+    width: 17%;
+}
+
+.secondTable span {
+    color: red;
+}
+
+.allP {
+    text-align: right;
+    margin-top: 15px;
+    padding-right: 5%;
+}
+
+.divGroup {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.divGroup label {
+    margin-right: 10px;
+}
+
+.divGroup input {
+    width: 200px;
+    margin-top: 16px;
+    display: inline;
+}
+
+
+.check {
+    background: #55a4f8;
+    color: white;
+    font-size: 14px;
+    height: 35px;
+    margin-top: 15px;
+    width: 98px;
+}
+
+.mobile {
+    width: 97px !important;
+}
+
+#charge {
+    height: 408px !important;
+}
+.modalIncome{
+	margin-left: 170px;
+}
+.modalIncome > div {
+    width: 500px;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    height: 100%;
+}
+
+.modalIncome > div:nth-child(1) {
+
+    margin-top: 50px;
+}
+.modalIncome div textarea {
+    width: 223px;
+    height: 70px;
+    float: left;
+}
+
+.modalIncome div .input-group {
+    width: 216px;
+}
+.laydate-icon {
+    padding-right: 0 !important;
+    border: 1px solid #A8A9A9 !important;
+}
+
+.modalIncome .bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {
+    width: 220px !important;
+}
+.incomeModal {
+    height: 390px !important;
+}
+
+.modalIncome1 > div {
+    width: 550px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+}
+
+.selectDiv div {
+    margin-top: 0;
+}
+
+.modalIncome1 div label {
+    display: block;
+    width: 80px;
+    float: left;
+    text-align: right;
+    margin-right: 10px;
+    margin-left: 194px;
+}
+
+.modalIncome1 div:nth-child(1) {
+    margin-top: 20px;
+}
+
+.modalIncome1 div input {
+    width: 200px;
+    height: 26px;
+    float: left;
+}
+
+.modalIncome1 div textarea {
+    width: 220px;
+}
+
+#moneyNumber, .input1 {
+    width: 184px !important;
+}
+
+

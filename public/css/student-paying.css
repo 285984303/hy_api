@@ -1,0 +1,99 @@
+
+.student-paying-title{
+	width: 99.9%;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	border: 1px solid #ccc;
+	margin-bottom: 20px;
+	overflow: hidden;
+	display: table;
+}
+.student-paying-title li{
+	height: 70px;
+	border-right: 1px dashed #333;
+	float: left;
+	display: table-cell;
+}
+.student-paying-title li.title1{
+	width: 30%;
+	display: table;
+	overflow: hidden;
+}
+.student-paying-title li.title1 div{
+	display: table-cell;
+	vertical-align: middle;
+	overflow: hidden;
+}
+.student-paying-title li.title1 img{
+	width: 18%;
+	max-width: 73.6px;
+	max-height: 70px;
+	margin: 0 0 0 8%;
+	display: block;
+	float: left;
+}
+.student-paying-title li.title1 p{
+	width: 58%;
+	text-align: center;
+	padding-top: 6%;
+	font-size: 14px;
+	float: left;
+	color: #333;
+}
+.student-paying-title li.title1 p span{
+	color: #f00;
+}
+.student-paying-title li.title2{
+	width: 24%;
+}
+.student-paying-title li.title2 p{
+	text-align: center;
+	padding-top: 3%;
+	font-size: 14px;
+	color: #333;
+}
+.student-paying-title li.title2 p span{
+	color: #f00;
+}
+.student-paying-title li.title2 p i{
+	color: #d8d8d8;
+	font-size: 12px;
+}
+.student-paying-title li.title3{
+	width: 20%;
+	border-right: 0;
+	display: table;
+}
+.student-paying-title li.title3 a{
+	display: table-cell;
+	vertical-align: middle;
+}
+.student-paying-title li.title3 a img{
+	width: 72%;
+	max-width: 278.8px;
+	max-height: 70px;
+	display: block;
+	margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

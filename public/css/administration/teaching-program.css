@@ -1,0 +1,53 @@
+.modalIncome:after {
+    display: block;
+    content: '';
+    clear: both;
+}
+
+.width100 {
+    width: 100% !important;
+}
+
+.modalIncome > div:nth-child(2) {
+    height: 36px;
+}
+
+.height36 {
+    height: 36px;
+}
+
+.modalIncome > div {
+    width: 45%;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: auto;
+    float: left;
+}
+
+.selectDiv div {
+    margin-top: 0;
+}
+
+.modalIncome div label {
+    display: block;
+    width: 90px;
+    float: left;
+    text-align: right;
+    margin-right: 10px;
+    /*margin-left: 194px;*/
+}
+
+.modalIncome div input[type=text] {
+    width: 240px;
+    height: 36px;
+    float: left;
+}
+
+.modalIncome div input[type=radio] {
+    width: 15px;
+    height: 15px;
+}
+
+.incomeModal {
+    height: 390px !important;
+}

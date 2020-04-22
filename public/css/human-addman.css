@@ -1,0 +1,60 @@
+
+.wrap-five a:nth-child(1) {
+	display: inline-block;
+	width: 120px;
+	height: 36px;
+	line-height: 36px;
+	text-align: center;
+	border-radius: 4px;
+	background: #4d85ef;
+	color: white;
+	margin-right: 90px;
+	margin-bottom: 30px;
+	font-size: 16px;
+}
+
+.wrap-five {
+	text-align: center;
+}
+.wrap-five a:nth-child(2) {
+	display: inline-block;
+	width: 120px;
+	border-radius: 4px;
+	height: 36px;
+	line-height: 36px;
+	text-align: center;
+	background: grey;
+	color: white;
+	margin-right: 90px;
+	margin-bottom: 30px;
+	font-size: 16px;
+}
+
+/*档案照片*/
+.wrap-add{
+	margin-left: 148px;
+	height: 140px;
+	overflow-y: scroll;
+}
+
+.coach-hidden {
+	display: none;
+}
+.img-group{
+	position: relative;
+	float: left;
+	width: 100px;
+	height: 140px;
+	border: 1px solid #ccc;
+	margin-left: 4px;
+}
+.wrap-add span{
+	display: block;
+	float: left;
+	margin-left: 20px;
+}
+.wrap-add a{
+	position: absolute;
+	top: -1px;
+	right: 2px;
+}

@@ -1,0 +1,153 @@
+.admin-leave-submain {
+    margin: 2% 4%;
+}
+
+.admin-leave-submain .head {
+    line-height: 74px;
+    background: #00ccff;
+}
+
+.admin-leave-submain .head select {
+    height: 30px;
+    line-height: 30px;
+    width: 90px;
+    margin-right: 22px;
+}
+
+ .leaveEvent {
+    width: 96px;
+    height: 35px;
+     margin-top: 20px;
+     margin-right: 35px;
+    line-height: 30px;
+    /*border: 1px solid #e7e7e7;*/
+    background: #ff9933;
+    font-size: 16px;
+    float: right;
+     color: white;
+}
+.head .select2-container{
+    margin-left: 20px;
+}
+.admin-leave-submain table {
+    margin-top: 40px;
+}
+
+.admin-leave-submain table {
+    border: 1px solid #ccc;
+}
+
+.admin-leave-submain table tr th {
+    background: #00ccff;
+    height: 56px;
+    color: white;
+    line-height: 56px;
+    font-size: 16px;
+    border-right: 1px solid #E4E4E4;
+
+}
+
+.admin-leave-submain table tr td {
+    height: 66px;
+    line-height: 66px;
+    background: #fafafa;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+    font-size: 14px;
+}
+
+.admin-leave-submain table tr td a {
+    color: #0066cc;
+    text-decoration: underline;
+}
+
+.layui-layer {
+    width: 800px !important;
+}
+
+.modal {
+    width: 800px;
+    height: 100%;
+}
+
+.modal p {
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.modal input {
+    height: 30px;
+    width: 217px;
+}
+
+.modal p > span {
+    font-size: 15px;
+}
+
+.width600 {
+    width: 650px;
+    height: 70px;
+    margin: 0 auto;
+}
+
+.font15 {
+    font-size: 15px;
+    margin-right: 5px;
+}
+
+#startTime {
+    margin-right: 50px;
+    border: 1px solid #9eacb0;
+    width: 200px;
+}
+
+#endTime {
+    border: 1px solid #9eacb0;
+    width: 200px;
+}
+
+.dayNumber {
+    margin-right: 50px;
+}
+
+select {
+    width: 221px;
+}
+
+.select2-container--default .select2-selection--single {
+    border-radius: 0px !important;
+}
+
+.select2-container {
+    margin-right: 10px !important;
+}
+
+.select2-container .select2-selection--single {
+    height: 34px !important;
+}
+
+.margin3 {
+    margin-right: 3px;
+}
+
+.leaveReason {
+    width: 540px;
+    height: 80px;
+}
+
+.height80 {
+    height: 118px;
+}
+
+.approval {
+    margin-left: 10px;
+}
+
+.coach, .name {
+    margin-right: 107px;
+}
+.layui-layer-btn a:last-of-type {
+    border: 1px solid #dedede!important;
+    background-color: #f1f1f1!important;
+    color: #333!important;
+}

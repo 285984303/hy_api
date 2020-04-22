@@ -1,0 +1,79 @@
+.coach-main-title b{
+	display: inline-block;
+	float: right;
+	width: 70px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	background:#ff9933 ;
+	color: white;
+	margin-right: 4%;
+}
+.admin-real-submain{
+	margin: 2% 4%;
+}
+.admin-real-submain .head{
+	line-height: 76px;
+	background: #33ccff;
+	margin-bottom: 20px;
+}
+.admin-real-submain .head input{
+	width: 14%;
+	height: 38px;
+	line-height: 38px;
+	margin-right: 40px;
+}
+.admin-real-submain .head select{
+	width: 14%;
+	height: 42px;
+	line-height: 42px;
+	margin-right: 40px;
+}
+.admin-real-submain .head label{
+	padding:0 10px;
+	color: white;
+}
+.admin-real-submain .head button{
+	width: 70px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	color: white;
+	float: right;
+	margin: 22px 22px;
+	background: #ff9933;
+}
+.admin-real-submain table{
+	margin-top: 20px;
+}
+.admin-real-submain table th{
+	height: 40px;
+	line-height: 40px;
+	background: #33ccff;
+	border: 1px solid #ccc;
+	border-bottom: none;
+	border-top: none;
+	color: white;
+	font-size: 18px;
+}
+.admin-real-submain table td{
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	border: 1px solid #ccc;
+	border-top: none;
+}
+.admin-real-submain table td a{
+	color: #5a3fff;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+	line-height:42px!important;
+}
+
+.select2-container--default .select2-selection--single{
+	height:42px;
+	border-radius: 0;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow{
+	top: 8px;
+}

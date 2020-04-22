@@ -1,0 +1,203 @@
+body,html{
+	width: 100%;
+	height: 100%;
+	background-color: #00ccff;
+}
+.reg-main{
+	margin: 0 auto;
+	width: 806px;
+	padding-top: 100px;
+}
+.logo-image{
+	display: block;
+	width: 100%;
+}
+.reg-main .reg-form{
+	width:560px;
+	margin: 0 auto;
+	padding-top: 45px;
+}
+.reg-main .reg-form div{
+	margin-bottom: 12px;
+}
+.reg-main .reg-form .input-one span{
+	display: inline-block;
+	width: 300px;
+	height: 44px;
+	border: none;
+	background-image: url(../images/bg-border.png);
+}
+.reg-main .reg-form .input-one input{
+	width: 260px;
+	height: 40px;
+	line-height: 40px;
+	border: none;
+	margin-left: 16px;
+}
+.reg-main .reg-form .input-two span{
+	display: inline-block;
+	width: 170px;
+	height: 44px;
+	border: none;
+	background-image: url(../images/login-auth.png);
+}
+.reg-main .reg-form .input-two input{
+	width: 136px;
+	height: 40px;
+	line-height: 40px;
+	border: none;
+	margin-left: 16px;
+}
+.reg-main .reg-form .input-two button{
+	display: inline-block;
+	width: 120px;
+	height: 44px;
+	background: #7ee800;
+	border-radius: 20px;
+	text-align: center;
+	line-height: 44px;
+	color: white;
+	font-size: 18px;
+	margin-left: 18px;
+}
+.reg-main .reg-form .input-three span{
+	display: inline-block;
+	width: 300px;
+	height: 44px;
+	border: none;
+	background-image: url(../images/bg-border.png);
+}
+.reg-main .reg-form .input-three input{
+	width: 260px;
+	height: 40px;
+	line-height: 40px;
+	border: none;
+	margin-left: 16px;
+}
+.reg-main .reg-form .input-four span{
+	display: inline-block;
+	width: 300px;
+	height: 44px;
+	border: none;
+	background-image: url(../images/bg-border.png);
+}
+.reg-main .reg-form .input-four input{
+	width: 260px;
+	height: 40px;
+	line-height: 40px;
+	border: none;
+	margin-left: 16px;
+}
+.reg-main .reg-form .top{
+	margin-top: 24px;
+}
+.reg-main .reg-form div label{
+	display: inline-block;
+	width: 160px;
+	text-align: right;
+	color: white;
+	font-size: 20px;
+}
+.reg-main .reg-form p{
+	padding-left: 160px;
+	line-height: 30px;
+	color: white;
+	margin-top: 22px;
+}
+.reg-main .reg-form p a{
+	color: #0066cc;
+}
+.reg-main .reg-form .input-five input{
+	padding-left: 160px;
+}
+.reg-main .reg-form  .login-forget{
+	width: 200px;
+	margin:10px 0 0 180px;
+	text-align: center;
+
+}
+.login-forget span,a{
+	color: white;
+}
+.login-forget span{
+	padding: 0 10px;
+}
+.login-footer{
+	width: 100%;
+	display: block;
+}
+
+
+/*完善信息页*/
+
+.input-one-add span{
+	display: inline-block;
+	width: 350px;
+	height: 44px;
+	line-height: 44px;
+	background-image: url(../images/add-msg3.png);
+}
+.input-one-add input{
+	border: none;
+	width: 318px;
+	height: 34px;
+	line-height: 34px;
+	margin-left: 12px;
+
+
+}
+.input-two-add input{
+	width: 24px;
+    height: 40px;
+    line-height: 40px;
+}
+.input-two-add span{
+    color: white;
+    font-size: 22px;
+    padding: 0 10px;
+}
+.input-three-add .input-prov{
+	border: none;
+	width: 76px;
+	height: 32px;
+	line-height: 32px;
+	margin-left: 12px;
+	color: #ccc;
+	font-size: 16px;
+}
+.input-three-add .input-prov1{
+	display: inline-block;
+	width: 100px;
+	height: 40px;
+	line-height: 40px;
+	margin-right: 10px;
+	background-image: url(../images/add-msg.png);
+}
+.input-three-add .input-city{
+	border: none;
+	width: 96px;
+	height: 32px;
+	line-height: 32px;
+	margin-left: 12px;
+	color: #ccc;
+	font-size: 16px;
+}
+.input-three-add .input-city1{
+	display: inline-block;
+	width: 120px;
+	height: 40px;
+	line-height: 40px;
+	background-image: url(../images/add-msg1.png);
+}
+.input-five-add {
+	padding-left:122px;
+}
+.input-five-add a {
+	padding-left:40px;
+}
+
+.select2-container--default .select2-selection--single {
+	margin-left: 10px;
+	width: 76px;
+	border: none;
+}

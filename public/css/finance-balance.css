@@ -1,0 +1,145 @@
+.coach-log-main-content {
+    width: 96%;
+    height: 100%;
+    min-width: 1040px;
+}
+
+.coach-log-main-content .log-header {
+    height: 66px;
+    width: 100%;
+    background: rgb(0, 204, 255);
+    margin-left: 30px;
+    margin-top: 15px;
+    color: white;
+    font-size: 17px;
+}
+
+#trainTime {
+    padding-right: 0px;
+    border: 1px solid #ccc;
+}
+
+.select2 {
+    width: 65% !important;
+}
+
+.select2-container--default .select2-selection--single {
+    border-radius: 0px !important;
+}
+
+.select2-container .select2-selection--single {
+    height: 34px !important;
+}
+
+.select2-container .select2-selection--single .select2-selection__rendered {
+    text-align: left !important;
+}
+
+.log-searchBtn {
+    width: 70px;
+    height: 36px;
+    background: rgb(255, 153, 51);
+    color: white;
+    float: right;
+    margin-right: 2%;
+}
+
+.coach-log-main-content .log-header input {
+    height: 30px;
+    width: 70%;
+}
+
+.log-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-left: 30px;
+}
+
+.log-table, .log-table th, .log-table td {
+    border: 1px solid #ccc;
+}
+
+.log-table th, .log-table td {
+    vertical-align: middle;
+    height: 45px;
+}
+
+.log-table td {
+    text-align: center;
+}
+
+.log-header .input-group {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.timeDiv {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.chargeDiv, .payDiv {
+    margin-right: 20px;
+    width: 20%;
+}
+
+.wrap {
+    margin-left: 190px;
+}
+
+.wrap div {
+    line-height: 60px;
+}
+
+.wrap div label {
+    font-size: 18px;
+    color: #666;
+    padding-right: 10px;
+    display: inline-block;
+    width: 90px;
+}
+
+.wrap div span {
+    font-size: 18px;
+    color: #666;
+}
+
+.wrap div select {
+    width: 244px;
+    height: 42px;
+    line-height: 42px;
+}
+
+.wrap div input {
+    width: 240px;
+    height: 40px;
+    line-height: 40px;
+    margin-right: 10px;
+}
+
+.wrap .sure-btn {
+    width: 126px;
+    height: 46px;
+    background: #33ccff;
+    color: white;
+    font-size: 20px;
+    border: none;
+}
+
+.wrap .cancel-btn {
+    width: 126px;
+    height: 46px;
+    background: #ccc;
+    color: white;
+    font-size: 20px;
+    border: none;
+}
+
+.wrap .foot {
+    margin-top: 30px;
+    margin-left: -40px;
+}
+
+.wrap .foot .cancel-btn {
+    margin-left: 210px;
+}

@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+
+/***************** main ************************/
+.clear:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+.floatL{ float:left !important;}
+
+/*基本表格样式*/
+.tableStyle {
+	margin-top: 2px;
+	/*font-size: 12px;*/
+	line-height: 22px;
+	width:100%;
+	/* background-color: #F4F7FF;
+	border: 1px solid #DBE4EE; */
+}
+
+.tableStyle th{
+	border-bottom: 1px dotted #e8eaeb;
+	vertical-align:top;
+	/*background-color: #a4bed4;*/
+	padding: 1px 10px;
+	min-width: 100px;
+	max-width: 150px;
+	width: auto;
+	text-align: left;
+}
+.tableStyle td {
+	/* border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #E1E9FF; */
+	border-bottom: 1px dotted #e8eaeb;
+	vertical-align: top;
+	/*background-color: #c3d4eb;*/
+	padding: 1px 10px;
+	/* overflow-x: hidden; */
+	word-wrap: break-word;
+	
+}
+

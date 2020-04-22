@@ -1,0 +1,38 @@
+
+.no {
+	color:#f19e4a ;
+}
+
+.already {
+	color:red ;
+}
+
+/*隐藏选项样式*/
+.content-tab{
+	background: #4d85ef;
+}
+.content-tab td{
+	font-size: 18px;
+}
+.content-tab1 td p{
+	float: left;
+	width: 20%;
+}
+.content-tab1 td p a{
+	display: block;
+	line-height: 30px;
+}
+.content-tab1 td p span{
+	display: block;
+	line-height: 30px;
+}
+.webuploader-pick{
+	width: 55px!important;
+	height: 30px!important;
+	font-weight: normal !important;
+	text-align: center!important;
+	margin-left: 0!important;
+	font-size: 14px !important;
+	background: none!important;
+	margin-top: -3px !important;
+}

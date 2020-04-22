@@ -1,0 +1,81 @@
+
+.bootstrap-select {
+    width: 100%!important;
+}
+
+/*modal-11*/
+.modal-11{
+    margin: 10px auto;
+
+}
+.modal-11 p {
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.modal-11 input[type=text]{
+    height: 35px;
+    width:100%;
+    border: 1px solid #ccc !important;
+}
+
+.img_del {
+    position: absolute;
+    left: 85px;
+}
+.label-width{
+	width: 95px;
+	display: inline-block;
+	text-align: right;
+	margin-left: 50px;
+}
+.width600{
+    width: 400px;
+    margin-top: 14px;
+}
+.addSite{
+    margin-left: 87px!important;
+}
+.addDiv{
+    width: 600px;
+}
+.siteContent{
+    width:500px;
+    height: 100%;
+    margin-left: 144px;
+    margin-top: -25px;
+}
+.margin117{
+    margin-left: 117px!important;
+}
+
+.margin89{
+    margin-left: 89px!important;
+}
+
+.margin81 {
+    margin-left: 85px !important;
+}
+
+.margin71 {
+    margin-left: 71px !important;
+}
+
+.margin52 {
+    margin-left: 56px !important;
+}
+#endTime{
+    width: 183px;
+    border: 1px solid #C2C6CC!important;
+}
+.width400{
+    width: 400px;
+    height: 50px;
+    margin-left: 163px;
+    margin-top: -20px;
+}
+
+.arrive-tr{
+    background: #E53935 !important;
+	color: white;
+}

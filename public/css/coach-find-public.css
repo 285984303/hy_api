@@ -1,0 +1,90 @@
+.coach-find-head{
+	width: 100%;
+	height: 30px;
+	background: #008eb2;
+}
+.coach-find-head .coach-find-one{
+	float: left;
+	padding-left: 30px;
+	line-height: 30px;
+}
+.coach-find-name{
+	color: #ffff33;
+	}
+.coach-find-head p span{
+		padding: 0 5px;
+	}
+.coach-find-head p .coach-find-msg{
+	padding-left: 60px;
+	color: #ffff33;
+}
+.coach-find-two{
+	float: right;
+	line-height: 30px;
+	padding-right: 45px;
+	color: white;
+}
+.coach-find-two a{
+	color: white;
+	padding: 0 5px;
+}
+.coach-find-banner{
+	width: 100%;
+	height: 140px;
+	background: #00ccff;
+}
+.coach-find-banner-left{
+	line-height: 140px;
+	float: left;
+	padding-left: 30px;
+}
+.coach-find-banner-left img{
+	vertical-align:middle;
+}
+.coach-find-banner-mid{
+	float: left;
+	padding-top: 62px;
+}
+.coach-find-banner-mid span{
+	font-size: 36px;
+	color: white;
+	padding-left: 15px;
+}
+.coach-find-banner-right{
+	float: right;
+}
+.coach-round-one{
+	float: left;
+	padding: 32px 50px 0 0;
+}
+.coach-round-two{
+	float: left;
+	padding: 32px 50px 0 0;
+	
+}
+.coach-round-one dd a{
+	color: white;
+	font-size: 14px;
+}
+.coach-round-two dd a{
+	color: white;
+	font-size: 14px;
+	
+}
+.coach-find-title{
+	
+	height: 90px;
+	line-height: 90px;
+	font-size: 30px;
+	color: #666;
+	border-bottom: 1px solid #999;
+	padding-left: 290px;
+}
+.coach-find-footer p{
+	height: 170px;
+	background: #333;
+	line-height: 170px;
+	text-align: center;
+	margin-top: 80px;
+	color: white;
+}

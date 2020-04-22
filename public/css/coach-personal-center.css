@@ -1,0 +1,64 @@
+.coach-find-main{
+	margin-left: 270px;
+	min-height: 800px;
+}
+.coach-find-main-title{
+	height: 30px;
+	line-height: 30px;
+	font-size: 17px;
+	padding-left: 30px;
+	color: #666;
+	background: #ccc;
+}
+.coach-find-main-title span{
+	font-size: 17px;
+}
+.coach-find-main-content{
+	padding-left: 30px;
+	min-width: 900px;
+}
+.coach-find-main-content>h2{
+	height: 104px;
+	padding-left: 49px;
+	border-bottom: 1px solid #ccc;
+	color: #394046;
+	font-size: 24px;
+	line-height: 122px;
+}
+.coach-find-main-form{
+	margin-top: 70px;
+	margin-left: 10%;
+}
+.coach-find-main-form>p{
+	margin-bottom: 30px;
+}
+.coach-find-main-form>p>label{
+	width: 150px;
+	height: 45px;
+	display: inline-block;
+	text-align: right;
+	line-height: 58px;
+	color: #394046;
+	font-style: normal;
+	font-size: 20px;
+}
+.coach-find-main-form>p>input{
+	width: 450px;
+	height: 45px;
+	border: 1px solid #999;
+	display: inline-block;
+	line-height: 45px;
+	padding-left: 10px;
+	color: #394046;
+	font-size: 20px;
+	background: none;
+	outline: none;
+	margin-left: 50px;
+}
+#save_btn{
+	width: 198px;
+	text-align: center;
+	margin-left: 28%;
+	margin-top: 50px;
+	font-weight: bold;
+}

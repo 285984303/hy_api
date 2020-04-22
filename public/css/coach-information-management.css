@@ -1,0 +1,122 @@
+.info_tip{
+    font-size: 16px;
+    color: #333;
+    font-weight: bold;
+    position: relative;
+    padding-top: 13px;
+    padding-bottom: 10px;
+    padding-left: 6px;
+    border-bottom: 1px solid #ddd;
+}
+
+.info_tip:before {
+    position: absolute;
+    width: 3px;
+    height: 16px;
+    top: 15px;
+    left: 0;
+    content: "";
+    display: block;
+    background-color: #4d85ef;
+}
+
+.headDiv {
+    width: 100%;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ddd;
+}
+
+.imgDiv {
+    margin-left: 10px;
+    margin-top: 30px;
+    min-width: 130px;
+    width: 10%;
+    float: left;
+}
+
+div.panel {
+    padding-top: 0 !important;
+}
+.log-content{
+    width: 100%;
+}
+.headImg{
+    width: 120px;
+    height: 160px;
+}
+
+.info_div {
+    width: 80%;
+    float: left;
+    margin-top: 65px;
+}
+
+.info_div p:nth-child(1) {
+    width: 90px;
+}
+
+.info_div p:nth-child(2) {
+    margin-left: 50px;
+    width: 320px;
+}
+
+.info_div p:nth-child(3) {
+    margin-left: 50px;
+}
+
+.info_div div:nth-child(2) {
+    margin-top: 20px;
+}
+
+.alterDiv {
+    margin-top: 40px;
+    width: 100%;
+}
+
+.info_div p {
+    display: inline-block;
+}
+
+.info_div label, .alterDiv label {
+    color: #666;
+    font-size: 16px;
+
+}
+
+.text_label {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+}
+
+.info_div span, .alterDiv span {
+    color: #333;
+
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+.alterDiv label {
+    display: inline-block;
+    width: 80px;
+    text-align: right;
+}
+
+.alterDiv p {
+    width: 800px;
+}
+
+.alterDiv a {
+    float: left;
+    color: #4d85ef;
+    display: inline-block;
+    width: 72px;
+    height: 32px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 32px;
+    border: 1px solid #4d85ef;
+    border-radius: 16px;
+}
+
+

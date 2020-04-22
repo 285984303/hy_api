@@ -1,0 +1,236 @@
+.admin-basic-submain{
+	margin: 2% 4%;
+}
+
+.tab {
+	padding-left: 0;
+}
+
+
+.webuploader-pick{
+	margin-left: 0!important;
+}
+.big-content>div{
+	display: none;
+}
+.div-active{
+	display: block;
+}
+
+.admin-basic-submain .title{
+	width: 100%;
+	height: 56px;
+}
+
+.admin-basic-submain .content_3 form {
+	float: left;
+	width: 100%;
+	margin-top: 50px;
+}
+
+.option_div {
+	text-align: right;
+}
+
+.option_div a {
+	text-align: right;
+}
+
+.contentPhoto form {
+    width: 100% !important;
+}
+
+.company label {
+	margin-left: 20px !important;
+	width: 700px !important;
+	text-align: left !important;
+}
+
+.companyShow label {
+	width: 700px !important;
+    text-align: left !important;
+    margin-left: 20px !important;
+}
+
+.admin-basic-submain .content form .row, .admin-basic-submain .content_3 form .row {
+	margin-bottom: 30px;
+}
+
+.admin-basic-submain .content form select, .admin-basic-submain .content_3 form select {
+	width: 20%;
+	height: 40px;
+	line-height: 40px;
+	margin-right: 2%;
+}
+
+.div-2 div.content {
+	margin-top: 100px;
+}
+.teach_part {
+	width: 56% !important;
+}
+.content_3 {
+	width: 100%;
+}
+
+.content_3 > table {
+	width: 100% !important;
+	margin-left: 0 !important;
+}
+
+.admin-basic-submain .content form .row {
+	width: 70%;
+	height: 40px;
+	line-height: 40px;
+}
+
+.admin-basic-submain .content form label, .admin-basic-submain .content_3 form label {
+	display: inline-block;
+	width: 110px;
+	text-align: right;
+	padding-right: 20px;
+}
+
+.sure-btn, .save {
+	width: 118px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	background: #4d85ef;
+	border-radius: 4px;
+	float: right;
+	color: white;
+	font-size: 16px;
+}
+
+.but_div_header button {
+	width: 128px;
+	height: 46px;
+	text-align: center;
+	line-height: 46px;
+	background: #FF9900;
+	float: right;
+	color: white;
+	margin-bottom: 20px;
+	font-size: 16px;
+}
+
+.logoImg{
+	margin-left: 20px;
+	width: 200px;
+	height: 100px;
+}
+.companyImg{
+	width: 100%;
+	height: 200px;
+}
+
+.company{
+	margin-left: 10%;
+	width: 80%;
+	height: 270px;
+	border: 1px solid #ccc;
+}
+.companyShow{
+	margin-left: 10%;
+	width: 80%;
+    height: 470px;
+	border: 1px solid #ccc;
+}
+.company p,.companyShow p{
+	margin-top: 20px;
+	margin-left: 3%;
+}
+.company ul,.companyShow ul{
+	margin-left: 3%;
+	width: 94%;
+}
+.company ul>li,.companyShow ul>li{
+	float: left;
+	width: 14%;
+}
+.subTip{
+	font-size: 14px;
+	color: #ccc;
+}
+
+.margin7{
+    margin-left: 15px;
+}
+.uploadPhoto{
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+.title ul>li{
+	cursor: pointer;
+}
+.contentPhoto{
+	margin-top: 20px;
+}
+.webuploader-container{
+	/*width: 100px;*/
+	/*margin-left: 255px;*/
+}
+
+.width100 {
+	width: 100% !important;
+}
+
+.modalIncome > div:nth-child(2) {
+	height: 36px;
+}
+
+.modalIncome > div {
+	width: 50%;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+}
+
+.modalIncome .bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {
+	width: 224px !important;
+}
+
+.teach_area .bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {
+	width: 240px !important;
+}
+
+.selectDiv div {
+	margin-top: 0;
+}
+
+.modalIncome div label {
+	display: block;
+	width: 100px;
+	float: left;
+	text-align: right;
+	margin-right: 10px;
+	/*margin-left: 194px;*/
+}
+
+.modalIncome div input[type=text] {
+	width: 240px;
+	height: 36px;
+	float: left;
+}
+
+.modalIncome div input[type=radio] {
+	width: 15px;
+	height: 15px;
+}
+
+.modalIncome div textarea {
+	width: 621px;
+}
+
+.incomeModal {
+	height: 390px !important;
+}
+
+.detail_input {
+	margin-top: 20px;
+	margin-left: 110px;
+	width: 673px !important;
+}

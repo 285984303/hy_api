@@ -1,0 +1,94 @@
+.coach-log-main-content{
+    width: 96%;
+    height: 100%;
+    min-width: 1040px;
+}
+.coach-log-main-content .log-header{
+    height: 100%;
+    width: 100%;
+    background: #D4D6DB;
+    margin-left: 30px;
+    margin-top: 15px;
+    color: white;
+    font-size: 17px;
+    margin-bottom: 50px;
+}
+.coach-log-main-content .log-header label{
+    color: #333;
+}
+.coach-log-main-content .log-header .log-header-group01,.coach-log-main-content .log-header .log-header-group02,.coach-log-main-content .log-header .log-header-group03,.coach-log-main-content .log-header .log-header-group04{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 20%;
+    /*margin-left: 8px;*/
+}
+.coach-log-main-content .log-header .log-header-bottom{
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+/*.coach-log-main-content .log-header input{
+    height: 30px;
+    width: 60%;
+    margin-left: 8px;
+}*/
+.select2-container{
+    /*width: 68%!important;*/
+}
+.input-group{
+    margin-bottom: 23px;
+}
+.log-table{
+    border-collapse:collapse;
+    width: 100%!important;
+    margin-left: 30px;
+}
+.log-table, .log-table th, .log-table td{
+    border:1px solid #ccc;
+    padding: 0!important;
+}
+
+.log-table th,.log-table td{
+    vertical-align: middle;
+    height: 45px;
+}
+.log-table td{
+    text-align: center;
+}
+.train-picture{
+    color: blue;
+}
+.text-align-right{
+	text-align: left!important;
+}
+.print-log{
+    color: rgb(255,153,51);
+}
+#trainTime{
+    padding-right: 0px;
+    border: 1px solid #ccc;
+}
+.select2{
+    width: 53.3%!important;
+
+}
+.select2-container--default .select2-selection--single{
+    border-radius: 0px!important;
+}
+.select2-container .select2-selection--single{
+    height: 30px!important;
+    margin-left: 8px;
+}
+.log-searchBtn{
+    width: 70px;
+    height: 30px;
+    background: #F4B856;
+    color: white;
+    font-size: 16px;
+    margin-top: 37px;
+    margin-right: 4%;
+    float: right;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+	text-align: left!important;
+	line-height: 16px!important;
+}

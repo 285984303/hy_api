@@ -1,0 +1,119 @@
+.message-config-main {
+    margin: 0 2%;
+    min-height: 618px;
+}
+
+.message-config-main table {
+    margin-top: 20px;
+}
+
+.message-config-main table tr th {
+    line-height: 40px;
+    background: #05cbff;
+    border: 1px solid #ccc;
+    color: white;
+}
+
+.message-config-main table tr td {
+    line-height: 40px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+.cofig-btn {
+    color: #00ccff;
+}
+
+.delete-a {
+    color: red;
+    margin-left: 10px;
+}
+
+.total-div {
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.total-div div .x-in {
+    width: 200px;
+    height: 24px;
+    line-height: 24px;
+}
+
+.total-div div {
+    margin-bottom: 15px;
+}
+
+.total-div label {
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+.total-div .two textarea {
+    width: 200px;
+    height: 90px;
+}
+
+.coach-main-title a {
+    display: inline-block;
+    float: right;
+    width: 90px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    margin-right: 2%;
+    background: #FF9933;
+    color: white;
+    font-size: 14px;
+}
+
+.hours-head {
+    width: 100%;
+    height: 100%;
+    float: left;
+    background: #00CCFF;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.hours-head button {
+    display: inline-block;
+    background: #FF9900;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: white;
+    margin-left: 8%;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.hours-head label {
+    color: white;
+    margin-left: 20px;
+    font-size: 16px;
+    display: block;
+    min-width: 70px;
+    float: left;
+}
+
+.hours-head input {
+    width: 20%;
+    height: 28px;
+    line-height: 22px;
+    margin-left: 10px;
+    float: left;
+}
+
+.div1 {
+    width: 80%;
+    height: 100%;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+

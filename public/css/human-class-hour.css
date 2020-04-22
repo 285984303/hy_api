@@ -1,0 +1,49 @@
+.hunan-class-hour-submain {
+	margin: 1% 2%;
+}
+.hunan-class-hour-submain .head form{
+	width: 100%;
+	height: 60px;
+	background: #5cc9fa;
+	line-height: 60px;
+}
+.year,.name{
+	width: 18%;
+	height: 30px;
+	line-height: 30px;
+	border: none;
+}
+.hunan-class-hour-submain .head form label{
+	color: white;
+	padding-left: 34px;
+}
+.hunan-class-hour-submain .head form .company{
+	display: inline-block;
+	float: right;
+	line-height: 60px;
+	margin-right: 20px;
+	color: white;
+}
+.hunan-class-hour-submain .head form button{
+	display: inline-block;
+	width: 74px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	background: #f8922a;
+	color: white;
+	margin-left: 44px;
+}
+.hunan-class-hour-submain table th{
+	height: 50px;
+	line-height: 50px;
+	border: 1px solid #ccc;
+	border-top: none;
+}
+.hunan-class-hour-submain table tr td{
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	border: 1px solid #ccc;
+	border-top: none;
+}

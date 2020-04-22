@@ -1,0 +1,156 @@
+.login-warp{
+	width: 100%;
+}
+.coach-head{
+	width: 1180px;
+	height: 60px;
+	margin: 0 auto;
+}
+.coach-head .left{
+	float: left;
+	margin-top:31px;
+}
+
+.coach-head .right{
+	float: right;
+	margin-top: 44px;
+}
+.coach-head .right a{
+	color: #666;
+	font-size: 16px;
+}
+.login-content{
+	width: 100%;
+	border-top: 1px solid #ccc;
+	margin-top: 40px;
+}
+.login-content-dev{
+	width: 1180px;
+	height: 556px;
+	margin: 2px auto;
+	background: url(/images/bk-login.png) no-repeat;
+}
+.coach-login-wrap{
+	width: 350px;
+	float: right;
+	margin-top: 150px;
+	margin-right:120px;
+}
+.coach-input-one{
+	width: 350px;
+	height: 60px;
+}
+.coach-input-two{
+	width: 350px;
+	height: 60px;
+	margin-top: 20px;
+}
+.coach-input-two span{
+	display: inline-block;
+	width: 62px;
+	height: 60px;
+	line-height: 60px;
+	color: white;
+	float: left;
+}
+.coach-input-one span{
+	display: inline-block;
+	width: 62px;
+	height: 60px;
+	line-height: 60px;
+	color: white;
+	float: left;
+}
+.coach-input-one input{
+	display: inline-block;
+	width: 260px;
+	height: 54px;
+	float: left;
+	border:none;
+	line-height: 54px;
+	border-radius: 2px;
+	padding-left: 10px;
+}
+.coach-input-two input{
+	display: inline-block;
+	width: 260px;
+	height: 54px;
+	float: left;
+	border:none;
+	line-height: 54px;
+	border-radius: 2px;
+	padding-left: 10px;
+}
+.coach-input-three{
+	width: 500px;
+	height: 60px;
+	margin-top: 40px;
+}
+.coach-input-three input{
+	width: 260px;
+	height: 54px;
+	display: inline-block;
+	float: left;
+}
+.coach-input-three span{
+	width: 140px;
+	height: 60px;
+	display: inline-block;
+	float: left;
+	padding-left: 30px;
+}
+.coach-input-three span img{
+	width: 140px;
+	height: 60px;
+}
+.coach-input-three a{
+	display: inline-block;
+	float: left;
+	padding: 14px 0 0 15px;
+}
+.coach-forget{
+	width: 500px;
+	line-height: 36px;
+}
+.coach-forget a{
+	color: red;
+	font-size: 18px;
+}
+.coach-submit{
+	width: 270px;
+	height: 50px;
+	line-height: 50px;
+	background-color:#009e52;
+	border: none;
+	color: white;
+	font-size: 20px;
+	margin-top: 30px;
+	margin-left: 60px;
+	border-radius: 2px;
+}
+#user-name,#pass-word{
+	display: none;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 62px;
+}
+.login-foot{
+	width: 1180px;
+	margin: 10px auto;
+   border-top: 1px solid #ccc;
+}
+.login-foot p{
+	width: 740px;
+	margin: 0 auto;
+	height: 60px;
+	line-height: 60px;
+}
+.login-foot p a{
+	color: #666;
+	font-size: 16px;
+}
+.login-foot p span{
+	padding-left: 20px;
+	font-size: 16px;
+	color: #666;
+}

@@ -1,0 +1,42 @@
+
+.allow {
+	color: #f19e4a;
+	cursor: pointer;
+}
+
+.over {
+	color: #eb4a3e;
+}
+
+.down {
+	color: #f19e4a;
+}
+.can-wrap p{
+		line-height:50px;
+		text-align: center;
+		font-size: 30px;
+		color: #d94040;
+		margin-top: 130px;
+}
+.can-wrap .foot{
+	margin-top: 130px;
+}
+.can-wrap .foot .sure-btn{
+				width: 130px;
+				height: 46px;
+				background: #66c9fa;
+				color: white;
+				border: none;
+				font-size: 20px;
+				margin-left: 160px;
+			}
+.can-wrap .foot .cancel-btn{
+				width: 130px;
+				height: 46px;
+				background: #ccc;
+				color: white;
+				border: none;
+				font-size: 20px;
+				margin-left: 110px;
+			}
+

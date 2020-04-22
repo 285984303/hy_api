@@ -1,0 +1,106 @@
+/*功能头部公共*/
+.coach-find-main{
+	margin-left: 270px;
+	min-height: 800px;
+	min-width: 1130px;
+}
+.coach-find-main-title{
+	height: 30px;
+	line-height: 30px;
+	font-size: 17px;
+	padding-left: 30px;
+	color: #666;
+	background: #ccc;
+}
+.coach-find-main-title span{
+	font-size: 17px;
+}
+/*完结*/
+.coach-coach-main{
+	margin:32px 32px 0 32px ;
+}
+.coach-backlog-head {
+	width: 100%;
+	height: 60px;
+}
+.coach-backlog-head ul li{
+	float: left;
+	width: 166px;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	color: #999;
+	font-size: 20px;
+}
+.coach-backlog-head ul .on{
+	width: 166px;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	background: #00ccff;
+	color: white;
+	border: 1px solid #0099cc;
+	border-bottom: none;
+}
+.coach-backlog-head .right{
+	float: right;
+	margin: 10px 130px 10px 0;
+}
+.coach-backlog-submain{
+	min-height: 678px;
+	border: 1px solid #0099cc;
+	margin:0 130px 0 0;
+}
+.coach-backlog-submain .msg{
+	text-align: left;
+    vertical-align: middle;
+    font-size: 18px;
+}
+.coach-backlog-submain .date{
+	text-align: left;
+	vertical-align: middle;
+	
+}
+.coach-backlog-submain .date span{
+	font-size: 18px;
+}
+.coach-backlog-submain .tr-on{
+	height: 100px;
+	
+}
+.coach-backlog-submain .date b{
+	display: inline-block;
+	width: 22px;
+	height: 22px;
+	background-image: url(../images/coach-backlog-del.png);
+	background-repeat: no-repeat;
+	background-position: 2px 2px;
+	margin: 10px 0 0 30px;
+	display: none;
+}
+.live{
+	background: #f4f4f4;
+	color: #c4c6c7;
+}
+.cacel-txt{
+	padding-top: 56px;
+	width:220px ;
+	margin: 0 auto;
+	line-height: 50px;
+	
+	background: url(../images/del-btn1.png) no-repeat 0 50px;
+}
+.cacel-txt span{
+	font-size: 20px;
+	color: #ff6666;
+	padding-left: 60px;
+}
+.sure-btn1{
+	width: 140px;
+	margin: 30px 170px;
+}
+.foot-fen{
+	position: fixed;
+	bottom: 50px;
+	left: 30%;
+}

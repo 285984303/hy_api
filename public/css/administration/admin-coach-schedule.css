@@ -1,0 +1,413 @@
+body {
+    /*min-width: 1857px;*/
+}
+table{
+    border-collapse: inherit;
+}
+.car_icon0{
+    width:0;
+    height:0;
+    border-top:4px solid transparent;
+    border-right:4px solid #e6a00a;
+    border-bottom:4px solid #e6a00a;
+    border-left:4px solid transparent;
+    position:absolute;
+    bottom:0;
+    right:0;
+}
+.car_icon1{
+    width:0;
+    height:0;
+    border-top:4px solid transparent;
+    border-right:4px solid #05d13f;
+    border-bottom:4px solid #05d13f;
+    border-left:4px solid transparent;
+    position:absolute;
+    bottom:0;
+    right:0;
+}
+.icon0{
+    width:0;
+    height:0;
+    border-top:4px solid transparent;
+    border-right:4px solid #e6a00a;
+    border-bottom:4px solid #e6a00a;
+    border-left:4px solid transparent;
+    display:inline-block;
+}
+.icon1{
+    width:0;
+    height:0;
+    border-top:4px solid transparent;
+    border-right:4px solid #05d13f;
+    border-bottom:4px solid #05d13f;
+    border-left:4px solid transparent;
+    display:inline-block;
+}
+/**/
+.col-md{
+    width:100px;
+    display:inline-block;
+}
+.overfllowDiv table {
+    width:100%;
+    border-collapse: collapse;
+}
+.thead{
+    width:100%;
+    display:table;
+    table-layout:fixed;
+    width: calc( 100%);
+    background-color: #f8f8f8;
+}
+.overfllowDiv {
+    width:100%;
+    display:block;
+    overflow: auto;
+    height: 535px;
+    /*overflow-y:scroll;*/
+}
+.coach-schedule-content table tr{
+    display:table;
+    width:100%;
+    table-layout:fixed;
+
+}
+.coach-schedule-content table tr th{
+	/*height: 40px;*/
+	line-height: 40px;
+	font-size: 12px;
+	text-align: center;
+	border: 1px solid #ccc;
+    border-right: none;
+    font-weight: 400;
+}
+.coach-schedule-content table tr th:last-child{
+    border-right: 1px solid #ccc;
+}
+.coach-schedule-content table tr td{
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid #ccc;
+    background-clip: padding-box;
+    position:relative;
+    top:0;
+    left:0;
+    border-right: none;
+    border-top:none;
+}
+.coach-schedule-content table tr td:last-child{
+    border-right: 1px solid #ccc;
+}
+::-webkit-scrollbar{
+    display:none;
+}
+.table_w {
+    -ms-overflow-style:none;
+    overflow:-moz-scrollbars-none;
+}
+/*::-webkit-scrollbar{width:0px}*/
+/*table tbody {*/
+/*display:block;*/
+/*height:195px;*/
+/*overflow-y:scroll;*/
+/*}*/
+
+/*table thead, tbody tr {*/
+/*display:table;*/
+/*width:100%;*/
+/*table-layout:fixed;*/
+/*}*/
+
+/*table thead {*/
+/*width: calc( 100%)*/
+/*}*/
+
+
+
+
+.table_w{
+    width:100%;
+    overflow:auto;
+}
+
+#packageDiv {
+    height: 228px !important;
+}
+
+.bg-green {
+    background: green !important;
+}
+/**/
+
+.table-time{
+    margin-top: 47px;
+    margin-left: 23%;
+}
+
+.scheduleBtn {
+    width: 80px;
+    height: 36px;
+    background: #4CAF50;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    line-height: 36px;
+    margin-right: 1%;
+}
+
+.cancel-fang, .disableAll, .enabled, .coachDisable {
+    width: 80px;
+    height: 36px;
+    background: #ff8a65;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    line-height: 36px;
+    margin-right: 1%;
+}
+
+.fang-class {
+    width: 80px;
+    height: 36px;
+    background: #4CAF50;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    line-height: 36px;
+    margin-right: 1%;
+}
+.import{
+    background: #bdbdbd;
+    color: white;
+    margin-right: 2%;
+    width: 50px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.btn-style, .btn-style:focus {
+    font-size: 14px;
+    background: #4CAF50;
+    color: white;
+    height: 36px;
+    line-height: 36px;
+    margin-right: 1%;
+    text-align: center;
+    width: 90px;
+}
+/*modalStudent*/
+.modalStudent{
+    width: 524px;
+    margin: 0 auto;
+    height: 100%;
+
+}
+/*换车弹窗*/
+
+.conten-win .conten-r{
+	width: 400px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+.conten-win .conten-r input{
+	width: 224px;
+	height: 35px;
+}
+.conten-win .conten-r label{
+	padding-right: 10px;
+}
+.conten-win .conten-r select{
+	width: 224px;
+	height: 35px;
+	padding-top: 20px;
+}
+.conten-win .conten-r textarea{
+	width: 224px;
+	height: 90px;
+}
+.ww-top{
+	margin-top: 20px;
+}
+.charge-se{
+	width: 50%;
+	height: 40px;
+	display: none;
+	border: 0;
+	text-align: center;
+	margin-left: 35%;
+	font-size: 12px;
+    color: black;
+}
+
+.bottomDiv > div {
+    text-align: center !important;
+}
+.modalHour div {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+.modalHour .div1{
+    margin-top: 20px;
+} 
+.modalHour div label {
+    margin-right: 10px;
+}
+
+div.loader {
+    font-style: italic;
+    text-align: center;
+    margin: 20px;
+    height: 24px;
+    background: url(../../images/loader.gif) no-repeat center center;
+}
+
+
+
+
+.btn-group-head-2 a:hover {
+    color: white;
+}
+
+.btn-group-head-2 {
+    width: 100%;
+    min-width: 774px;
+    height: 100%;
+    float: left;
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.bottomDiv {
+    margin-top: 60px !important;
+    text-align: center !important;
+}
+
+/*.bottomDiv div {
+    width: 100%;
+}*/
+
+.width180 {
+    width: 180px !important;
+}
+
+.bottomDiv div:nth-child(3) {
+    text-align: center !important;
+    width: 330px;
+    margin-left: -44px;
+}
+
+.bottomDiv .order {
+    width: 100px;
+    height: 35px;
+    font-size: 16px;
+    color: white;
+    margin-top: 30px;
+    background: #e53935;
+}
+.bottomDiv .disable {
+    width: 100px;
+    height: 35px;
+    font-size: 16px;
+    color: white;
+    margin-top: 30px;
+    background: #ff9933;
+}
+.order, .changeCoach {
+    background: #00CCFF;
+    margin-right: 100px;
+}
+
+.bg_c {
+    background-color: #ccc;
+}
+.disable {
+    background: #ff9933;
+}
+
+.agree {
+    background: #00CCFF;
+    width: 100px;
+    height: 36px;
+    color: white;
+}
+
+.coachDiv {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.coachDiv label {
+    margin-right: 10px;
+}
+
+.coachDiv .select2-container {
+    width: 150px !important;
+}
+
+#coachModal {
+    height: 115px !important;
+}
+
+.nodata {
+    display: none;
+    height: 32px;
+    line-height: 32px;
+    text-align: center;
+    color: #999;
+    font-size: 14px;
+}
+
+.optionDiv {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.optionDiv button:nth-child(1) {
+    background: #ff8a65;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    line-height: 36px;
+    margin-right: 1%;
+    height: 36px;
+    width: 110px;
+    float: left;
+    display: block;
+}
+
+.optionDiv button:nth-child(2) {
+    background: #4CAF50;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    line-height: 36px;
+    margin-right: 1%;
+    height: 36px;
+    width: 110px;
+    float: left;
+    display: block;
+}
+.student_btn button {
+    background: #ff9933;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    line-height: 36px;
+    margin-right: 23px;
+    height: 36px;
+    width: 80px;
+    float: left;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.student_div, .student_btn {
+    width: 95%;
+}
+
+.student_div, .student_btn {
+    padding-left: 5%;
+}

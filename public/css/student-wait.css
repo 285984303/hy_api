@@ -1,0 +1,144 @@
+.student-wait-main{
+	min-height: 300px;
+	border: 1px solid #ccc;
+	border-top: none;
+}
+.student-wait-main h1{
+	background: #394046;
+	height: 60px;
+	line-height: 60px;
+}
+.student-wait-main h1 span{
+	display:block;
+	width: 30px;
+	height: 60px;
+	background: #00ccff;
+	float: left;
+}
+.student-wait-main h1 b{
+	float: left;
+	display: block;
+	height: 60px;
+	line-height: 60px;
+	font-size: 22px;
+	color: white;
+	margin-left: 30px;
+}
+.student-wait-main .con-one{
+	width: 100%;
+	height: 180px;
+	margin: 2% 2%;
+	
+}
+.student-wait-main .con-one dl{
+	width: 456px;
+	height: 180px;
+	border-right: 1px dashed #ccc;
+	float: left;
+}
+.student-wait-main .con-one dl dt{
+	width: 180px;
+	float: left;
+}
+.student-wait-main .con-one dl dt img{
+	border: 1px solid #CCC;
+	width: 180px;
+}
+.student-wait-main .con-one dl dd{
+	float: left;
+	width: 246px;
+	padding-left: 30px;
+	line-height: 40px;
+	font-size: 18px;
+	padding-bottom: 20px;
+}
+.student-wait-main .con-one .con-right{
+	float: left;
+	margin-left: 2%;
+}
+.student-wait-main .con-one .con-right div{
+	margin-top: 40px;
+}
+.student-wait-main .con-one .con-right p{
+	margin: 20px 0;
+	font-size: 18px;
+}
+.student-wait-main .con-one .con-right a{
+	display: inline-block;
+	text-align: center;
+	height: 36px;
+	line-height: 36px;
+	background: #fff;
+	border: 2px solid #ccc;
+	margin-left: 10px;
+}
+.student-wait-main .con-one .con-right1{
+	float: left;
+	margin-left: 2%;
+}
+.student-wait-main .con-one .con-right .eva-one{
+	width: 50px;
+}
+.student-wait-main .con-one .con-right .eva-two{
+	width: 60px;
+}
+.student-wait-main .con-one .con-right .eva-three{
+	width: 70px;
+}
+.student-wait-main .con-one .con-right .eva-four{
+	width: 80px;
+}
+.student-wait-main .con-one .con-right span{
+	padding-left: 10px;
+	color: #ccc;
+	font-size: 18px;
+}
+.student-wait-main .con-one .con-right1 .row-one{
+	line-height: 50px;
+	background: url(../images/wait-yes.png) no-repeat;
+	padding-left: 60px;
+	font-size: 22px;
+	color: #ff6666;
+}
+.student-wait-main .con-one .con-right1 .row-two{
+	line-height: 40px;
+	font-size: 18px;
+}
+.student-wait-main .con-one .con-right1 .row-two .ass-w{
+	
+	font-size: 18px;
+}
+.student-wait-main .con-one .con-right1 .row-three{
+	line-height: 40px;
+}
+.student-wait-main .con-two{
+	width: 90%;
+	margin: 0 auto;
+	height: 160px;
+}
+.student-wait-main .con-two .left{
+	float: left;
+}
+.student-wait-main .con-two .left div{
+	line-height: 40px;
+	margin-right: 10px;
+}
+.student-wait-main .con-two .left div label{
+	font-size: 18px;
+	padding-right: 10px;
+}
+.student-wait-main .con-two .mid{
+	float: left;
+	width: 57%;
+	height: 160px;
+}
+.student-wait-main .con-two .mid textarea{
+	float: left;
+	width: 100%;
+	height: 150px;
+}
+.student-wait-main .con-two .right{
+	float: left;
+	line-height: 160px;
+	margin-left: 26px;
+}
